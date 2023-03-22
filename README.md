@@ -1,20 +1,18 @@
  <div id="header" align="center">
-  <img src="assets/header.gif" width="250"/>
+  <img src="assets/header.gif" width="350"/>
 </div>
 
-<div id="badges" align="center>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<div id="badges" align="center">
+  <a href="https://github.com/niebayes">
+    <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=niebayes&left_color=gray&right_color=blue)
+<div id="visitor" align="center">
+   <img src="https://visitor-badge.glitch.me/badge?page_id=niebayes&left_color=gray&right_color=blue"/>
+</div>
+
+
 
 
 ### Hi there 👋
@@ -68,9 +66,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 ## 📊 &nbsp;Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niebayes&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-[![GitHub Streak](https://streak-stats.demolab.com/?user=niebayes&theme=buefy)](https://git.io/streak-stats) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niebayes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niebayes&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com/?user=niebayes&theme=tokyonight)](https://git.io/streak-stats) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niebayes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Weekly development breakdown
  <!--START_SECTION:waka-->
