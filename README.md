@@ -1,7 +1,20 @@
+ <div id="header" align="center">
+  <img src="assets/header.gif" width="250"/>
+</div>
+
+<div id="badges" align="center>
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=niebayes&left_color=gray&right_color=blue)
- [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
- [![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
- [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
 
 
 ### Hi there 👋
@@ -30,7 +43,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=MIT-6-824-Paxos&theme=buefy)](https://github.com/niebayes/MIT-6-824-Paxos)
 
-## 🧰 &nbsp;My toolbox
+## 🧰 &nbsp;Languages and Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
