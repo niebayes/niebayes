@@ -1,4 +1,4 @@
- <div id="header" align="center">
+<div id="header" align="center">
   <img src="assets/header.gif" width="350"/>
 </div>
 
@@ -6,23 +6,42 @@
   <a href="https://github.com/niebayes">
     <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ 
    <a href="https://leetcode.cn/u/lzx071021/">
     <img src="https://img.shields.io/badge/LeetCode-gray?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LinkedIn Badge"/>
+   </a>
+ 
+ <a href="mailto:niebayes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail badge"/>
   </a>
-
+ 
+  <a href="wechat">
+    <img src="https://img.shields.io/badge/WeChat-gray?style=for-the-badge&logo=wechat&logoColor=white" alt="wechat"/>
+  </a>
+ 
 </div>
+ 
+
 
 <div id="visitor" align="center">
    <img src="https://visitor-badge.glitch.me/badge?page_id=niebayes&left_color=gray&right_color=blue"/>
 </div>
 
 
-### Hi there 👋
-I'm a self-taught software engineer.
+### 👋 nbsp; Hi there 
+I'm a passionate self-taught developer who have strong interests on distributed systems, database.
 
 hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+  
+- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💬 ask me about anything, i am happy to help;
+- 
+### 👋 nbsp; 你好
+我是一名自学的开发者，对分布式系统、数据库很感兴趣。我有大量的 C/C++、Go、Rust、Python 的编程经验。我自学过 MIT 6.824、CMU 15-445、CMU 6.S081、CMU 15-213、Stanford CS 144 Stanford CS 110L 等很多公开课。我对人工智能、机器人、游戏开发很感兴趣。我目前正在找一份全职或者自由职业者的工作。另外，我还对电脑绘画很感兴趣。如果你在学习这些课程的过程中有任何问题，可以联系我。
+
+我正在准备参加 Google 开源之夏项目。
   
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help;
@@ -82,18 +101,3 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 ![](https://raw.githubusercontent.com/niebayes/niebayes/output/github-contribution-grid-snake-dark.svg)
-
-<!--
-**niebayes/niebayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
