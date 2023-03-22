@@ -48,6 +48,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![LevelDB](https://img.shields.io/badge/-LevelDB-green?style=for-the-badge)
+![RocksDB](https://img.shields.io/badge/-RocksDB-yellow?style=for-the-badge)
 
 ## 🧰 &nbsp;My Leetcode
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
@@ -60,6 +62,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ### Weekly development breakdown
  <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
+![](https://raw.githubusercontent.com/niebayes/niebayes/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **niebayes/niebayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
