@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail badge"/>
   </a>
  
-  <a href="wechat">
+  <a href="assets/wechat.png">
     <img src="https://img.shields.io/badge/WeChat-gray?style=for-the-badge&logo=wechat&logoColor=white" alt="wechat"/>
   </a>
  
@@ -39,8 +39,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💬 ask me about anything, i am happy to help;
 - 
 ### 👋 nbsp; 你好
-我是一名自学的开发者，对分布式系统、数据库很感兴趣。我有大量的 C/C++、Go、Rust、Python 的编程经验。我自学过 MIT 6.824、CMU 15-445、CMU 6.S081、CMU 15-213、Stanford CS 144 Stanford CS 110L 等很多公开课。我对人工智能、机器人、游戏开发很感兴趣。我目前正在找一份全职或者自由职业者的工作。另外，我还对电脑绘画很感兴趣。如果你在学习这些课程的过程中有任何问题，可以联系我。
-
+我是一名自学的开发者。我硕士毕业之后对计算机和编程很感兴趣，我自学过 MIT 6.824、CMU 15-445、CMU 6.S081、CMU 15-213、Stanford CS 144 Stanford CS 110L 等很多公开课。我有大量的 C/C++、Go、Rust、Python 的编程经验。我对分布式系统、数据库很感兴趣，目前正在找一份全职或者自由职业者的工作。我还对人工智能、机器人、游戏开发很感兴趣。另外，我还对电脑绘画很感兴趣。
+如果你在学习这些课程的过程中有任何问题，可以联系我。
+我还参加过 PingCap tinykv 训练营和 Oceanbase miniob 数据库大赛，
+我将我对一些课程的解决方案整理出来了。
 我正在准备参加 Google 开源之夏项目。
   
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
@@ -87,7 +89,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![LevelDB](https://img.shields.io/badge/-LevelDB-green?style=for-the-badge)
 ![RocksDB](https://img.shields.io/badge/-RocksDB-yellow?style=for-the-badge)
-
 
 
 ## 📊 &nbsp;Stats
