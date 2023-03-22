@@ -3,6 +3,7 @@
  [![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
  [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
 
+
 ### Hi there 👋
 I'm a self-taught software engineer.
 
@@ -56,7 +57,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 [![GitHub Streak](https://streak-stats.demolab.com/?user=niebayes&theme=buefy)](https://git.io/streak-stats) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niebayes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### Weekly development breakdown
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **niebayes/niebayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
