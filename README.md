@@ -98,6 +98,19 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ### Weekly development breakdown
  <!--START_SECTION:waka-->
+
+```text
+From: 21 March 2023 - To: 22 March 2023
+
+Total Time: 1 hr 20 mins
+
+C            1 hr 5 mins     ████████████████████▒░░░░   80.88 %
+Markdown     13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+Perl         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+```
+
 <!--END_SECTION:waka-->
 
 
