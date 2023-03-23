@@ -28,46 +28,32 @@
 </div>
 
 
-### 👋 nbsp; Hi there 
-I'm a passionate self-taught developer who have strong interests on distributed systems, database.
-
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+### 👋 &nbsp; Hi there 
+I am a self-taught developer with a master’s degree. My interest in computers and programming began after I graduated. I have self-studied many open courses such as MIT 6.824, CMU 15-445, CMU 6.S081, CMU 15-213, Stanford CS 144, Stanford CS 110L, etc. I have participated in the PingCap tinykv training camp and the Oceanbase miniob database competition. I’m skilled in C/C++, Go, Rust, Python, distributed systems, and databases. I’m also interested in artificial intelligence, robotics, game development, and computer painting.
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
-- 
-### 👋 nbsp; 你好
-我是一名自学的开发者。我硕士毕业之后对计算机和编程很感兴趣，我自学过 MIT 6.824、CMU 15-445、CMU 6.S081、CMU 15-213、Stanford CS 144 Stanford CS 110L 等很多公开课。我有大量的 C/C++、Go、Rust、Python 的编程经验。我对分布式系统、数据库很感兴趣，目前正在找一份全职或者自由职业者的工作。我还对人工智能、机器人、游戏开发很感兴趣。另外，我还对电脑绘画很感兴趣。
-如果你在学习这些课程的过程中有任何问题，可以联系我。
-我还参加过 PingCap tinykv 训练营和 Oceanbase miniob 数据库大赛，
-我将我对一些课程的解决方案整理出来了。
-我正在准备参加 Google 开源之夏项目。
-  
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+- contact me if you have any questions about learning these courses, [email](mailto:niebayes@gmail.com) :)
+- I'm currently looking for a full-time or freelance work
+- I'm preparing to participate in the Google Summer of Code
+
+### 👋 &nbsp; 你好
+我是一名自学的开发者。我硕士毕业之后对计算机和编程很感兴趣，自学过 MIT 6.824、CMU 15-445、CMU 6.S081、CMU 15-213、Stanford CS 144、Stanford CS 110L 等公开课，参加过 PingCap tinykv 训练营和 Oceanbase miniob 数据库大赛。我有大量的 C/C++、Go、Rust、Python 的编程经验。我对分布式系统、数据库很感兴趣。除此之外，人工智能、机器人、游戏开发也很吸引我。
+
+- 如果你在学习这些课程的过程中有任何问题，可以联系我，[email](mailto:niebayes@gmail.com) :)
+- 我目前正在找一份全职或者自由职业者的工作
+- 我正在准备参加 Google 开源之夏项目
 
 &nbsp;
 
 ## ✏️ &nbsp; Blog posts
 
-- [Reverse engineering Reolink cameras for custom scenes and modes with Home Automation](https://cyris.io/blog/reverse-engineer-reolink)
-- [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
-- [Generating dynamic images on the fly for Email Marketing](https://cyris.io/blog/canvas-image-generation)
-- [Use Twitter to find developer friends near you](https://cyris.io/blog/find-developer-friends)
-
-## 🗒 &nbsp; Public Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=MIT-6-824-Paxos&theme=tokyonight)](https://github.com/niebayes/MIT-6-824-Paxos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=LSM-DB&theme=tokyonight)](https://github.com/niebayes/LSM-DB)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=tinykv&theme=tokyonight)](https://github.com/niebayes/tinykv)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=miniob&theme=tokyonight)](https://github.com/niebayes/miniob)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=UZH-Robot-Perception&theme=tokyonight)](https://github.com/niebayes/UZH-Robot-Perception)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Balancebeam&theme=tokyonight)](https://github.com/niebayes/Balancebeam)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=DEET-Debugger&theme=tokyonight)](https://github.com/niebayes/DEET-Debugger)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Segregated-Explicit-Free-List&theme=tokyonight)](https://github.com/niebayes/Segregated-Explicit-Free-List)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=FAT32-Deleted-File-Recover&theme=tokyonight)](https://github.com/niebayes/FAT32-Deleted-File-Recover)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Graph-Algorithms&theme=tokyonight)](https://github.com/niebayes/Graph-Algorithms)
+- [LSM-DB: A simple key-value database based on LSM-Tree](https://upbeat-ounce-aa9.notion.site/LSM-DB-8c82c86246d048dea3d267586c970ad4)
+- [A Sharded Key-Value Service based on Multi-Paxos](https://upbeat-ounce-aa9.notion.site/Lab4-Sharded-Key-Value-Service-0aa67093f034415b923076a331e61a66)
+- [How to hack: MIT 6.824 Paxos](https://upbeat-ounce-aa9.notion.site/MIT-6-824-2015-Paxos-40168d56ca774134acd701c30be52c34)
+- [A 10 day trip on MiniOB](https://upbeat-ounce-aa9.notion.site/A-10-Day-Trip-On-MiniOB-b6f1f5e0a43a4652b45caf790726da55)
+- [How to hack: PingCap tinykv](https://upbeat-ounce-aa9.notion.site/PingCap-TinyKv-3cc6c8e22e2c4f929568208dd177e962)
+- [LevelDB 源码解析](https://upbeat-ounce-aa9.notion.site/Leveldb-96d31b98df5b40bb906e3230597746b9)
+- [Paxos Made Simple 推理复述](https://upbeat-ounce-aa9.notion.site/Paxos-Made-Simple-cb0bb140b3ef4768bddf5767f958e0ac)
+- [My top-200 leetcode problems](https://upbeat-ounce-aa9.notion.site/1385dfe256d74cb49a9601b1673b2dbc?v=0a548ac0d3444cfbb940d4c5f566ef74)
 
 ## 🧰 &nbsp;Languages and Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -96,22 +82,31 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 [![GitHub Streak](https://streak-stats.demolab.com/?user=niebayes&theme=tokyonight)](https://git.io/streak-stats) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niebayes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://raw.githubusercontent.com/niebayes/niebayes/output/github-contribution-grid-snake-dark.svg)
+
 ### Weekly development breakdown
  <!--START_SECTION:waka-->
-
-```text
-From: 21 March 2023 - To: 22 March 2023
-
-Total Time: 1 hr 20 mins
-
-C            1 hr 5 mins     ████████████████████▒░░░░   80.88 %
-Markdown     13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
-Perl         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-```
-
 <!--END_SECTION:waka-->
 
+## :notebook_with_decorative_cover: &nbsp; Public Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=MIT-6-824-Paxos&theme=tokyonight)](https://github.com/niebayes/MIT-6-824-Paxos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=LSM-DB&theme=tokyonight)](https://github.com/niebayes/LSM-DB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=tinykv&theme=tokyonight)](https://github.com/niebayes/tinykv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=miniob&theme=tokyonight)](https://github.com/niebayes/miniob)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=UZH-Robot-Perception&theme=tokyonight)](https://github.com/niebayes/UZH-Robot-Perception)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Balancebeam&theme=tokyonight)](https://github.com/niebayes/Balancebeam)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=DEET-Debugger&theme=tokyonight)](https://github.com/niebayes/DEET-Debugger)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Segregated-Explicit-Free-List&theme=tokyonight)](https://github.com/niebayes/Segregated-Explicit-Free-List)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=FAT32-Deleted-File-Recover&theme=tokyonight)](https://github.com/niebayes/FAT32-Deleted-File-Recover)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Graph-Algorithms&theme=tokyonight)](https://github.com/niebayes/Graph-Algorithms)
 
-![](https://raw.githubusercontent.com/niebayes/niebayes/output/github-contribution-grid-snake-dark.svg)
+
+## 🤪 &nbsp; How this profile is made?
+- [waka-readme](https://github.com/athul/waka-readme): display coding time breakdown.
+- [snk](https://github.com/Platane/snk): make contribution graph into a snake game gif.
+  - [tutorial](https://blog.jyhsu.tw/p/用-github-貢獻圖製作貪食蛇動畫/)
+- [shields](https://github.com/badges/shields): create your own badges with icons.
+  - [tutorial](https://stackoverflow.com/a/41472017)
+- [markdown-badges](https://github.com/Ileriayo/markdown-badges): provides popular badges with icons.
+- [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats): display github streak stats.
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats): display github activity stats, top languages and more repos.
