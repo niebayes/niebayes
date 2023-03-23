@@ -2,6 +2,16 @@
   <img src="assets/header.gif" width="350"/>
 </div>
 
+<div id="header" align="center">
+   <a href="mailto:niebayes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail: niebayes@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red" alt="gmail badge"/>
+  </a>
+ 
+  <a href="assets/wechat.png">
+    <img src="https://img.shields.io/badge/WeChat: lzx--xuebaochai-gray?style=flat-square&logo=wechat&logoColor=white" alt="wechat"/>
+  </a>
+</div>
+
 <div id="badges" align="center">
   <a href="https://github.com/niebayes">
     <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,18 +19,8 @@
  
    <a href="https://leetcode.cn/u/lzx071021/">
     <img src="https://img.shields.io/badge/LeetCode-gray?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LinkedIn Badge"/>
-   </a>
- 
- <a href="mailto:niebayes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-gray?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail badge"/>
-  </a>
- 
-  <a href="assets/wechat.png">
-    <img src="https://img.shields.io/badge/WeChat-gray?style=for-the-badge&logo=wechat&logoColor=white" alt="wechat"/>
-  </a>
- 
+   </a> 
 </div>
- 
 
 
 <div id="visitor" align="center">
@@ -55,6 +55,8 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 - [Paxos Made Simple 推理复述](https://upbeat-ounce-aa9.notion.site/Paxos-Made-Simple-cb0bb140b3ef4768bddf5767f958e0ac)
 - [My top-200 leetcode problems](https://upbeat-ounce-aa9.notion.site/1385dfe256d74cb49a9601b1673b2dbc?v=0a548ac0d3444cfbb940d4c5f566ef74)
 
+&nbsp;
+
 ## 🧰 &nbsp;Languages and Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -76,6 +78,7 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 ![LevelDB](https://img.shields.io/badge/-LevelDB-green?style=for-the-badge)
 ![RocksDB](https://img.shields.io/badge/-RocksDB-yellow?style=for-the-badge)
 
+&nbsp;
 
 ## 📊 &nbsp;Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niebayes&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
@@ -97,6 +100,8 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+&nbsp;
+
 ## :notebook_with_decorative_cover: &nbsp; Public Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=MIT-6-824-Paxos&theme=tokyonight)](https://github.com/niebayes/MIT-6-824-Paxos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=LSM-DB&theme=tokyonight)](https://github.com/niebayes/LSM-DB)
@@ -109,6 +114,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=FAT32-Deleted-File-Recover&theme=tokyonight)](https://github.com/niebayes/FAT32-Deleted-File-Recover)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Graph-Algorithms&theme=tokyonight)](https://github.com/niebayes/Graph-Algorithms)
 
+&nbsp;
 
 ## 🤪 &nbsp; How this profile is made?
 - [waka-readme](https://github.com/athul/waka-readme): display coding time breakdown.
