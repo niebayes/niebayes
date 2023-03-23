@@ -86,6 +86,15 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 
 ### Weekly development breakdown
  <!--START_SECTION:waka-->
+```text
+From: 21 March 2023 - To: 22 March 2023
+Total Time: 1 hr 20 mins
+C            1 hr 5 mins     ████████████████████▒░░░░   80.88 %
+Markdown     13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+Perl         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+```
 <!--END_SECTION:waka-->
 
 ## :notebook_with_decorative_cover: &nbsp; Public Repositories
