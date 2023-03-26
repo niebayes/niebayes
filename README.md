@@ -130,3 +130,4 @@ Other        12 mins         ▒░░░░░░░░░░░░░░░░
 - [markdown-badges](https://github.com/Ileriayo/markdown-badges): provides popular badges with icons.
 - [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats): display github streak stats.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats): display github activity stats, top languages and more repos.
+- [shields-with-icon](https://github.com/progfay/shields-with-icon): some other badges with icons.
