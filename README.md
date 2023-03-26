@@ -77,6 +77,7 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![LevelDB](https://img.shields.io/badge/-LevelDB-green?style=for-the-badge)
 ![RocksDB](https://img.shields.io/badge/-RocksDB-yellow?style=for-the-badge)
+![Apache Spark](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
 
 &nbsp;
 
