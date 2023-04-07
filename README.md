@@ -8,7 +8,7 @@
   </a>
  
   <a href="assets/wechat.png">
-    <img src="https://img.shields.io/badge/WeChat: lzx--xuebaochai-gray?style=flat-square&logo=wechat&logoColor=white" alt="wechat"/>
+    <img src="https://img.shields.io/badge/WeChat: nsc--sunflower-gray?style=flat-square&logo=wechat&logoColor=white" alt="wechat"/>
   </a>
 </div>
 
