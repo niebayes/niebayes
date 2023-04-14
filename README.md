@@ -92,14 +92,13 @@ I am a self-taught developer with a master’s degree. My interest in computers 
  <!--START_SECTION:waka-->
 
 ```text
-From: 21 March 2023 - To: 12 April 2023
+From: 21 March 2023 - To: 13 April 2023
 
-Total Time: 99 hrs 28 mins
+Total Time: 111 hrs 7 mins
 
-Go                45 hrs 28 mins  ███████████▒░░░░░░░░░░░░░   45.71 %
-Python            40 hrs 9 mins   ██████████░░░░░░░░░░░░░░░   40.37 %
-C                 4 hrs 59 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Other             4 hrs 56 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Go                53 hrs 41 mins  ████████████░░░░░░░░░░░░░   48.32 %
+Python            40 hrs 9 mins   █████████░░░░░░░░░░░░░░░░   36.14 %
+Other             7 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
 ```
 
 <!--END_SECTION:waka-->
