@@ -45,11 +45,11 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 &nbsp;
 
 ## ✏️ &nbsp; Blog posts
-
+- [How to hack: MIT 6.5840](https://upbeat-ounce-aa9.notion.site/MIT-6-5840-144dbcc479724e809d19912584887c88)
 - [LSM-DB: A simple key-value database based on LSM-Tree](https://upbeat-ounce-aa9.notion.site/LSM-DB-8c82c86246d048dea3d267586c970ad4)
 - [A Sharded Key-Value Service based on Multi-Paxos](https://upbeat-ounce-aa9.notion.site/Lab4-Sharded-Key-Value-Service-0aa67093f034415b923076a331e61a66)
 - [How to hack: MIT 6.824 Paxos](https://upbeat-ounce-aa9.notion.site/MIT-6-824-2015-Paxos-40168d56ca774134acd701c30be52c34)
-- [How to hack: PingCap tinykv](https://upbeat-ounce-aa9.notion.site/PingCap-TinyKv-3cc6c8e22e2c4f929568208dd177e962)
+- [How to hack: PingCap tinykv](https://upbeat-ounce-aa9.notion.site/README-ALL-745774237d2d4b5195d214859c1867cd)
 - [A 10 day trip on MiniOB](https://upbeat-ounce-aa9.notion.site/A-10-Day-Trip-On-MiniOB-b6f1f5e0a43a4652b45caf790726da55)
 - [LevelDB 源码解析](https://upbeat-ounce-aa9.notion.site/Leveldb-96d31b98df5b40bb906e3230597746b9)
 - [Paxos Made Simple 推理复述](https://upbeat-ounce-aa9.notion.site/Paxos-Made-Simple-cb0bb140b3ef4768bddf5767f958e0ac)
@@ -108,7 +108,7 @@ Other             13 hrs 9 mins   ██▒░░░░░░░░░░░░�
 ## :notebook_with_decorative_cover: &nbsp; Public Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=MIT-6-824-Paxos&theme=tokyonight)](https://github.com/niebayes/MIT-6-824-Paxos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=LSM-DB&theme=tokyonight)](https://github.com/niebayes/LSM-DB)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=tinykv&theme=tokyonight)](https://github.com/niebayes/tinykv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=tinykv-summary&theme=tokyonight)](https://github.com/niebayes/tinykv-summary)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=miniob&theme=tokyonight)](https://github.com/niebayes/miniob)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=UZH-Robot-Perception&theme=tokyonight)](https://github.com/niebayes/UZH-Robot-Perception)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Balancebeam&theme=tokyonight)](https://github.com/niebayes/Balancebeam)
