@@ -106,6 +106,7 @@ Other             13 hrs 9 mins   ██▒░░░░░░░░░░░░�
 &nbsp;
 
 ## :notebook_with_decorative_cover: &nbsp; Public Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=MIT-6.5840&theme=tokyonight)](https://github.com/niebayes/MIT-6.5840)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=MIT-6-824-Paxos&theme=tokyonight)](https://github.com/niebayes/MIT-6-824-Paxos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=LSM-DB&theme=tokyonight)](https://github.com/niebayes/LSM-DB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=tinykv-summary&theme=tokyonight)](https://github.com/niebayes/tinykv-summary)
