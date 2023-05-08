@@ -41,7 +41,7 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 
 - 如果你在学习这些课程的过程中有任何问题，可以联系我，[email](mailto:niebayes@gmail.com) :)
 - 我目前正在找一份全职或者自由职业者的工作
-- 我正在参加 Jina AI 的谷歌开源之夏（GSoC）项目
+- 我正在参加 [Jina AI](https://github.com/jina-ai/jina) 的谷歌开源之夏（GSoC）项目
 - 我目前是 [mathesar](https://github.com/centerofci/mathesar) 的 candidate contributor
 
 &nbsp;
