@@ -24,7 +24,9 @@
 
 
 <div id="visitor" align="center">
-   <img src="https://visitor-badge.glitch.me/badge?page_id=niebayes&left_color=gray&right_color=blue"/>
+<!--    <img src="https://visitor-badge.glitch.me/badge?page_id=niebayes&left_color=gray&right_color=blue"/> -->
+  
+   ![](https://komarev.com/ghpvc/?username=niebayes&label=visitor)
 </div>
 
 
