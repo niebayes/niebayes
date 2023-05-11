@@ -125,9 +125,9 @@ Text              21 mins         ░░░░░░░░░░░░░░░�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=UZH-Robot-Perception&theme=tokyonight)](https://github.com/niebayes/UZH-Robot-Perception)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Balancebeam&theme=tokyonight)](https://github.com/niebayes/Balancebeam)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=DEET-Debugger&theme=tokyonight)](https://github.com/niebayes/DEET-Debugger)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Segregated-Explicit-Free-List&theme=tokyonight)](https://github.com/niebayes/Segregated-Explicit-Free-List)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Segregated-Explicit-Free-List&theme=tokyonight)](https://github.com/niebayes/Segregated-Explicit-Free-List)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=FAT32-Deleted-File-Recover&theme=tokyonight)](https://github.com/niebayes/FAT32-Deleted-File-Recover)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Graph-Algorithms&theme=tokyonight)](https://github.com/niebayes/Graph-Algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Graph-Algorithms&theme=tokyonight)](https://github.com/niebayes/Graph-Algorithms) -->
 
 &nbsp;
 
