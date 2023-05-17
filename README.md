@@ -37,6 +37,7 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 - I'm currently looking for a full-time or freelance work
 - I'm currently a GSoC constributor of [Jina AI](https://github.com/jina-ai/jina)
 - I'm currently a candidate contributor of [mathesar](https://github.com/centerofci/mathesar)
+- I'm currently a candidate contributor of [Apache Doris](https://github.com/apache/doris/)
 
 ### 👋 &nbsp; 你好
 我是一名自学的开发者。我硕士毕业之后对计算机和编程很感兴趣，自学过 MIT 6.824、CMU 15-445、CMU 6.S081、Harvard CS 265、CMU 15-213、Stanford CS 144、Stanford CS 110L 等公开课，参加过 PingCap tinykv 训练营和 Oceanbase miniob 数据库大赛。我有大量的 C/C++、Go、Rust、Python 的编程经验。我对分布式系统、数据库很感兴趣。除此之外，人工智能、机器人、游戏开发也很吸引我。
@@ -45,6 +46,7 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 - 我目前正在找一份全职或者自由职业者的工作
 - 我正在参加 [Jina AI](https://github.com/jina-ai/jina) 的谷歌开源之夏（GSoC）项目
 - 我目前是 [mathesar](https://github.com/centerofci/mathesar) 的 candidate contributor
+- 我目前是 [Apache Doris](https://github.com/apache/doris/) 的 candidate contributor
 
 &nbsp;
 
