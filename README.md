@@ -62,6 +62,18 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 
 &nbsp;
 
+## 📗 &nbsp; Featured books
+- [凤凰架构（Fenix Architecture）](https://icyfenix.cn)
+- [Designing Data-Intensive Applications](https://dataintensive.net)
+
+## 📋 &nbsp; Recent papers I've read
+- [Borg](https://research.google/pubs/pub43438/)
+- [Memcache](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf)
+- [DynamoDB](https://www.usenix.org/system/files/atc22-elhemali.pdf)
+- [twitter-cache](https://www.usenix.org/system/files/osdi20-yang.pdf)
+
+&nbsp;
+
 ## 🧰 &nbsp;Languages and Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
