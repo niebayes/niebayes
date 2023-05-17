@@ -31,7 +31,7 @@
 
 
 ### 👋 &nbsp; Hi there 
-I am a self-taught developer with a master’s degree. My interest in computers and programming began after I graduated. I have self-studied many open courses such as MIT 6.824, CMU 15-445, CMU 6.S081, CMU 15-213, Stanford CS 144, Stanford CS 110L, etc. I have participated in the PingCap tinykv training camp and the Oceanbase miniob database competition. I’m skilled in C/C++, Go, Rust, Python, distributed systems, and databases. I’m also interested in artificial intelligence, robotics, game development, and computer painting.
+I am a self-taught developer with a master’s degree. My interest in computers and programming began after I graduated. I have self-studied many open courses such as MIT 6.824, CMU 15-445, CMU 6.S081, Harvard CS 265, CMU 15-213, Stanford CS 144, Stanford CS 110L, etc. I have participated in the PingCap tinykv training camp and the Oceanbase miniob database competition. I’m skilled in C/C++, Go, Rust, Python, distributed systems, and databases. I’m also interested in artificial intelligence, robotics, game development, and computer painting.
   
 - contact me if you have any questions about learning these courses, [email](mailto:niebayes@gmail.com) :)
 - I'm currently looking for a full-time or freelance work
@@ -39,7 +39,7 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 - I'm currently a candidate contributor of [mathesar](https://github.com/centerofci/mathesar)
 
 ### 👋 &nbsp; 你好
-我是一名自学的开发者。我硕士毕业之后对计算机和编程很感兴趣，自学过 MIT 6.824、CMU 15-445、CMU 6.S081、CMU 15-213、Stanford CS 144、Stanford CS 110L 等公开课，参加过 PingCap tinykv 训练营和 Oceanbase miniob 数据库大赛。我有大量的 C/C++、Go、Rust、Python 的编程经验。我对分布式系统、数据库很感兴趣。除此之外，人工智能、机器人、游戏开发也很吸引我。
+我是一名自学的开发者。我硕士毕业之后对计算机和编程很感兴趣，自学过 MIT 6.824、CMU 15-445、CMU 6.S081、Harvard CS 265、CMU 15-213、Stanford CS 144、Stanford CS 110L 等公开课，参加过 PingCap tinykv 训练营和 Oceanbase miniob 数据库大赛。我有大量的 C/C++、Go、Rust、Python 的编程经验。我对分布式系统、数据库很感兴趣。除此之外，人工智能、机器人、游戏开发也很吸引我。
 
 - 如果你在学习这些课程的过程中有任何问题，可以联系我，[email](mailto:niebayes@gmail.com) :)
 - 我目前正在找一份全职或者自由职业者的工作
