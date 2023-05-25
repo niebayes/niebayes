@@ -51,6 +51,7 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 &nbsp;
 
 ## ✏️ &nbsp; Blog posts
+- [我对笔试、面试刷题的思考](https://upbeat-ounce-aa9.notion.site/8fdb61a18fb84345b58f4c45c954697b)
 - [How to hack: MIT 6.5840](https://upbeat-ounce-aa9.notion.site/MIT-6-5840-144dbcc479724e809d19912584887c88)
 - [LSM-DB: A simple key-value database based on LSM-Tree](https://upbeat-ounce-aa9.notion.site/LSM-DB-8c82c86246d048dea3d267586c970ad4)
 - [A Sharded Key-Value Service based on Multi-Paxos](https://upbeat-ounce-aa9.notion.site/Lab4-Sharded-Key-Value-Service-0aa67093f034415b923076a331e61a66)
@@ -60,7 +61,6 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 - [Notes about MIT 6.S081](https://upbeat-ounce-aa9.notion.site/MIT-6-S081-OSTEP-81f198a02a2745c799fd1014719aa5a3)
 - [LevelDB 源码解析](https://upbeat-ounce-aa9.notion.site/Leveldb-96d31b98df5b40bb906e3230597746b9)
 - [Paxos Made Simple 推理复述](https://upbeat-ounce-aa9.notion.site/Paxos-Made-Simple-cb0bb140b3ef4768bddf5767f958e0ac)
-- [My top-200 leetcode problems](https://upbeat-ounce-aa9.notion.site/1385dfe256d74cb49a9601b1673b2dbc?v=0a548ac0d3444cfbb940d4c5f566ef74)
 
 &nbsp;
 
