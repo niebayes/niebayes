@@ -50,14 +50,14 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 
 &nbsp;
 
-## Open Source Projects
+## ⭐ &nbsp; Open Source Projects
 ### Jina AI x Google Summer of Code
 - [Project Proposal](https://upbeat-ounce-aa9.notion.site/Shicong-Nie-Project-Idea-5-6b60ce2ba8b041309ca3e819f61f9d79)
 - [Follower Read Proposal](https://upbeat-ounce-aa9.notion.site/Follower-Read-Proposal-a7ea0ee3c1d24daa916cfa05c5070668)
 
 &nbsp;
 
-### ⭐ &nbsp; Apache Doris - Doris Future
+### Apache Doris - Doris Future
 - [M1 Mac 编译和调试 Doris 指南](https://upbeat-ounce-aa9.notion.site/M1-Mac-Doris-ced9fc6298fd4c3c985cc01c2bdc4473)
 - [`array_contains_all` 进度报告 05.29](https://upbeat-ounce-aa9.notion.site/array_contains_all-05-29-1fcdd6b2c78544afb16675d3a06c1a05)
 - [关于如何实现一个 array function 的 dicussion](https://github.com/apache/doris/discussions/20276)
