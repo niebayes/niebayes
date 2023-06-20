@@ -63,12 +63,12 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 - [`array_contains_all` 进度报告 05.29](https://upbeat-ounce-aa9.notion.site/array_contains_all-05-29-1fcdd6b2c78544afb16675d3a06c1a05)
 - [关于如何实现一个 array function 的 dicussion](https://github.com/apache/doris/discussions/20276)
 - [`array_contains_all` Pull Request](https://github.com/apache/doris/pull/20350)
-- [Show Load Profile About Segment Compaction 进度报告](https://upbeat-ounce-aa9.notion.site/Add-Load-Profile-about-Segment-Compaction-b6292ba115fa4542a7187a89d78fe775)
+- [Doris Compaction 总结](https://upbeat-ounce-aa9.notion.site/Doris-Compaction-11ef3dd3245249639b381078bb198c01?pvs=4)
+
 
 &nbsp;
 
 ## ✏️ &nbsp; Blog posts
-- [Doris Compaction 总结](https://upbeat-ounce-aa9.notion.site/Doris-Compaction-11ef3dd3245249639b381078bb198c01?pvs=4)
 - [M1 Mac 编译和调试 Doris 指南](https://upbeat-ounce-aa9.notion.site/M1-Mac-Doris-ced9fc6298fd4c3c985cc01c2bdc4473)
 - [A trip on Apache Doris](https://upbeat-ounce-aa9.notion.site/array_contains_all-05-29-1fcdd6b2c78544afb16675d3a06c1a05)
 - [我对笔试、面试刷题的思考](https://upbeat-ounce-aa9.notion.site/8fdb61a18fb84345b58f4c45c954697b)
