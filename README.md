@@ -80,7 +80,7 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 - [A 10 day trip on MiniOB](https://upbeat-ounce-aa9.notion.site/A-10-Day-Trip-On-MiniOB-b6f1f5e0a43a4652b45caf790726da55)
 - [Notes about MIT 6.S081](https://upbeat-ounce-aa9.notion.site/MIT-6-S081-OSTEP-81f198a02a2745c799fd1014719aa5a3)
 - [LevelDB 源码解析](https://upbeat-ounce-aa9.notion.site/Leveldb-96d31b98df5b40bb906e3230597746b9)
-- [Paxos Made Simple 推理复述](https://upbeat-ounce-aa9.notion.site/Paxos-Made-Simple-cb0bb140b3ef4768bddf5767f958e0ac)
+- [Paxos 算法讲解](https://upbeat-ounce-aa9.notion.site/Paxos-ff806ff31e8e4f178e18934e03ac1fd5?pvs=4)
 - [Leetcode 刷题表](https://upbeat-ounce-aa9.notion.site/1385dfe256d74cb49a9601b1673b2dbc?v=0a548ac0d3444cfbb940d4c5f566ef74&pvs=4)
 - [Codeforces 刷题表](https://upbeat-ounce-aa9.notion.site/02dd413f46dc4b82b31e402fcde286d3?v=8e4bcdb9fb864f869c5263ba2d789d67&pvs=4)
 
