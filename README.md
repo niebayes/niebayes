@@ -69,6 +69,7 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 &nbsp;
 
 ## ✏️ &nbsp; Blog posts
+- [Percolator 解析](https://upbeat-ounce-aa9.notion.site/Percolator-1315b2b551c8441083db62a860a0ce0e?pvs=4)
 - [M1 Mac 编译和调试 Doris 指南](https://upbeat-ounce-aa9.notion.site/M1-Mac-Doris-ced9fc6298fd4c3c985cc01c2bdc4473)
 - [A trip on Apache Doris](https://upbeat-ounce-aa9.notion.site/array_contains_all-05-29-1fcdd6b2c78544afb16675d3a06c1a05)
 - [我对笔试、面试刷题的思考](https://upbeat-ounce-aa9.notion.site/8fdb61a18fb84345b58f4c45c954697b)
