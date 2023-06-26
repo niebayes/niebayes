@@ -55,6 +55,7 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 - [Project Overview](https://summerofcode.withgoogle.com/programs/2023/projects/5ma8Zs54)
 - [Project Proposal](https://upbeat-ounce-aa9.notion.site/Shicong-Nie-Project-Idea-5-6b60ce2ba8b041309ca3e819f61f9d79)
 - [Follower Read Proposal](https://upbeat-ounce-aa9.notion.site/Follower-Read-Proposal-a7ea0ee3c1d24daa916cfa05c5070668)
+- [PR: add draft implementation for canonical raft](https://github.com/jina-ai/jina/pull/5933/files)
 
 &nbsp;
 
