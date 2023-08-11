@@ -44,6 +44,8 @@
 
 祝大家学业顺利、事业有成！
 
+私货：[GreptimeDB](https://github.com/GreptimeTeam/greptimedb) 是国产自研云原生时序数据库，有兴趣地可以了解一下，点个star。
+
 ### 👋 &nbsp; Hi there 
 I am a self-taught developer with a master’s degree. My interest in computers and programming began after I graduated. I have self-studied many open courses such as MIT 6.824, CMU 15-445, CMU 6.S081, Harvard CS 265, CMU 15-213, Stanford CS 144, Stanford CS 110L, etc. I have participated in the PingCap tinykv training camp and the Oceanbase miniob database competition. I’m skilled in C/C++, Go, Rust, Python, distributed systems, and databases. I’m also interested in artificial intelligence, robotics, game development, and computer painting.
   
