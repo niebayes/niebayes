@@ -29,23 +29,6 @@
    ![](https://komarev.com/ghpvc/?username=niebayes&label=visitor)
 </div>
 
-# 记一次答复邮件的感悟
-今日收到一位学弟/学妹关于课程学习的邮件，在回信时有一些感悟，分享于此。
-
-现在计算机就业比较困难，尤其是像数据库内核、分布式系统等基础架构方向。虽然因为之前的贸易战，国家开始重视和扶持国产自研数据信息产业，有很多资本流入。但随着几年的烧钱，收益缓慢或不明显。可以预见到，如果没有大规模的资本进场或强有力的政策倾斜，国产自研数据库中的绝大部分都会在五年内倒闭。
-
-如果你对计算机行业、数据库内核方向的就业感到灰暗，不妨看看我的经历。我本硕211，均为机械专业，且是传统机械，与计算机、电子信息毫无关联。本科毕业时不会写 C 语言，绩点年级倒数前三，累计挂科七门。研究生毕业时只写过大约几千行 C++，了解一点数据结构和算法，其他计算机理论基础为零。毕业后两年空窗期，无任何实习、论文、竞赛获奖经历。在很多人的认知中，以这样的履历去求职数据库内核研发，应该是地狱难度。即使如此，我还是拿到了业界知名厂商的数份 offer。
-
-对于 6.824、15445、6s081 等知名课程项目，乃至 tinykv、miniob 等较为简单的、非生产项目，几乎已经成为数据库内核求职者的标配，我个人保守估计有超过60%以上的求职者学习过这些项目中的大部分。如果有志者想往数据库内核方向发展，可以看看 toydb 项目源码全面了解一个数据库系统，学习 leveldb 项目源码以了解数据库存储，学习 duckdb 项目源码以了解数据库计算。同时应该积极参与开源项目，尤其是知名开源项目，选择其中的一至两个，长期、深入地参与。我认为这比在大厂轮转实习的经历更有含金量。
-
-另外，我最近认识到内核研发和应用开发都是两条非常好的路径。并不是说做内核的人就一定比做应用、业务方向的人厉害，应用也是一个非常有意义、有挑战性的方向。
-
-选择数据库内核，这不可谓不是一个艰难的路程。但是前途依旧是光明的，历经寒冬后留存下来的数据库企业必定是精英，且中国有全球最庞大的市场，这些数据库企业一定会发展的很好。
-
-祝大家学业顺利、事业有成！
-
-私货：[GreptimeDB](https://github.com/GreptimeTeam/greptimedb) 是国产自研云原生时序数据库，有兴趣地可以了解一下，点个star。
-
 ### 👋 &nbsp; Hi there 
 I am a self-taught developer with a master’s degree. My interest in computers and programming began after I graduated. I have self-studied many open courses such as MIT 6.824, CMU 15-445, CMU 6.S081, Harvard CS 265, CMU 15-213, Stanford CS 144, Stanford CS 110L, etc. I have participated in the PingCap tinykv training camp and the Oceanbase miniob database competition. I’m skilled in C/C++, Go, Rust, Python, distributed systems, and databases. I’m also interested in artificial intelligence, robotics, game development, and computer painting.
   
