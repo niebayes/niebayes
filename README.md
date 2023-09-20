@@ -137,7 +137,7 @@ I am a self-taught developer with a master’s degree. My interest in computers 
  <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2023 - To: 18 September 2023
+From: 21 March 2023 - To: 19 September 2023
 
 Total Time: 444 hrs 9 mins
 
