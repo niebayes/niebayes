@@ -137,20 +137,20 @@ I am a self-taught developer with a master’s degree. My interest in computers 
  <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2023 - To: 22 November 2023
+From: 21 March 2023 - To: 23 November 2023
 
-Total Time: 654 hrs 26 mins
+Total Time: 660 hrs 29 mins
 
-Rust              263 hrs 53 mins ██████████░░░░░░░░░░░░░░░   40.32 %
-C++               113 hrs 24 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
-Go                86 hrs 55 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-Python            86 hrs 23 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Other             21 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Bash              12 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-TOML              12 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Markdown          10 hrs 42 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-C                 9 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-CMake             8 hrs 56 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Rust              269 hrs 15 mins ██████████▒░░░░░░░░░░░░░░   40.77 %
+C++               113 hrs 24 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
+Go                86 hrs 55 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
+Python            86 hrs 23 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
+Other             22 hrs 2 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Bash              12 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+TOML              12 hrs 22 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Markdown          10 hrs 42 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+C                 9 hrs 16 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+CMake             8 hrs 56 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
