@@ -32,6 +32,7 @@
 &nbsp;
 
 ## ✏️ &nbsp; TODO
+- [ ] Database papers
 - [ ] Advanced Rust
   - [ ] https://github.com/skyzh/type-exercise-in-rust
   - [ ] https://rust-lang.github.io/async-book/
