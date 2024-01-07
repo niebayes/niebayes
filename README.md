@@ -56,8 +56,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=niebayes&theme=tokyonight)](https://git.io/streak-stats) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niebayes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://raw.githubusercontent.com/niebayes/niebayes/output/github-contribution-grid-snake-dark.svg)
-
 ### Weekly development breakdown
  <!--START_SECTION:waka-->
 
