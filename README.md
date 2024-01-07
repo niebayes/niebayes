@@ -29,43 +29,6 @@
    ![](https://komarev.com/ghpvc/?username=niebayes&label=visitor)
 </div>
 
-### 👋 &nbsp; Hi there 
-I am a self-taught developer with a master’s degree. My interest in computers and programming began after I graduated. I have self-studied many open courses such as MIT 6.824, CMU 15-445, CMU 6.S081, Harvard CS 265, CMU 15-213, Stanford CS 144, Stanford CS 110L, etc. I have participated in the PingCap tinykv training camp and the Oceanbase miniob database competition. I’m skilled in C/C++, Go, Rust, Python, distributed systems, and databases. I’m also interested in artificial intelligence, robotics, game development, and computer painting.
-  
-- contact me if you have any questions about learning these courses, [email](mailto:niebayes@gmail.com) :)
-- I'm currently looking for a full-time or intership work
-- I'm currently a GSoC constributor of [Jina AI](https://github.com/jina-ai/jina)
-- I'm currently a contributor of [Apache Doris](https://github.com/apache/doris/)
-- Check my [resume](https://github.com/niebayes/resume-english) to better know me
-
-### 👋 &nbsp; 你好
-我是一名自学的开发者。我硕士毕业之后对计算机和编程很感兴趣，自学过 MIT 6.824、CMU 15-445、CMU 6.S081、Harvard CS 265、CMU 15-213、Stanford CS 144、Stanford CS 110L 等公开课，参加过 PingCap tinykv 训练营和 Oceanbase miniob 数据库大赛。我有大量的 C/C++、Go、Rust、Python 的编程经验。我对分布式系统、数据库很感兴趣。除此之外，人工智能、机器人、游戏开发也很吸引我。
-
-- 如果你在学习这些课程的过程中有任何问题，可以联系我，[email](mailto:niebayes@gmail.com) :)
-- 我目前正在找一份全职或实习的工作
-- 我正在参加 [Jina AI](https://github.com/jina-ai/jina) 的谷歌开源之夏（GSoC）项目
-- 我目前是 [Apache Doris](https://github.com/apache/doris/) 的 contributor
-- 查看我的 [简历](https://github.com/niebayes/Resume) 以更好地了解我
-
-&nbsp;
-
-## ⭐ &nbsp; Open Source Projects
-### Jina AI x Google Summer of Code
-- [Project Overview](https://summerofcode.withgoogle.com/programs/2023/projects/5ma8Zs54)
-- [Project Proposal](https://upbeat-ounce-aa9.notion.site/Shicong-Nie-Project-Idea-5-6b60ce2ba8b041309ca3e819f61f9d79)
-- [Follower Read Proposal](https://upbeat-ounce-aa9.notion.site/Follower-Read-Proposal-a7ea0ee3c1d24daa916cfa05c5070668)
-- [PR: add draft implementation for canonical raft](https://github.com/jina-ai/jina/pull/5933/files)
-
-&nbsp;
-
-### Apache Doris x Doris Future
-- [M1 Mac 编译和调试 Doris 指南](https://upbeat-ounce-aa9.notion.site/M1-Mac-Doris-ced9fc6298fd4c3c985cc01c2bdc4473)
-- [`array_contains_all` 进度报告 05.29](https://upbeat-ounce-aa9.notion.site/array_contains_all-05-29-1fcdd6b2c78544afb16675d3a06c1a05)
-- [关于如何实现一个 array function 的 dicussion](https://github.com/apache/doris/discussions/20276)
-- [`array_contains_all` Pull Request](https://github.com/apache/doris/pull/20350)
-- [Doris Compaction 总结](https://upbeat-ounce-aa9.notion.site/Doris-Compaction-11ef3dd3245249639b381078bb198c01?pvs=4)
-
-
 &nbsp;
 
 ## ✏️ &nbsp; Blog posts
@@ -85,44 +48,6 @@ I am a self-taught developer with a master’s degree. My interest in computers 
 - [Paxos 算法讲解](https://upbeat-ounce-aa9.notion.site/Paxos-ff806ff31e8e4f178e18934e03ac1fd5?pvs=4)
 - [Leetcode 刷题表](https://upbeat-ounce-aa9.notion.site/1385dfe256d74cb49a9601b1673b2dbc?v=0a548ac0d3444cfbb940d4c5f566ef74&pvs=4)
 - [Codeforces 刷题表](https://upbeat-ounce-aa9.notion.site/02dd413f46dc4b82b31e402fcde286d3?v=8e4bcdb9fb864f869c5263ba2d789d67&pvs=4)
-
-&nbsp;
-
-## 📗 &nbsp; Featured books
-- [凤凰架构（Fenix Architecture）](https://icyfenix.cn)
-- [Designing Data-Intensive Applications](https://dataintensive.net)
-
-&nbsp;
-
-## 📋 &nbsp; Recent papers I've read
-- [Borg](https://research.google/pubs/pub43438/)
-- [Memcache](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf)
-- [DynamoDB](https://www.usenix.org/system/files/atc22-elhemali.pdf)
-- [twitter-cache](https://www.usenix.org/system/files/osdi20-yang.pdf)
-
-&nbsp;
-
-## 🧰 &nbsp;Languages and Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![LevelDB](https://img.shields.io/badge/-LevelDB-green?style=for-the-badge)
-![RocksDB](https://img.shields.io/badge/-RocksDB-yellow?style=for-the-badge)
-![Apache Spark](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
 
 &nbsp;
 
@@ -154,21 +79,6 @@ CMake             9 hrs 1 min     ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-&nbsp;
-
-## :notebook_with_decorative_cover: &nbsp; Public Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=MIT-6.5840&theme=tokyonight)](https://github.com/niebayes/MIT-6.5840)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=MIT-6-824-Paxos&theme=tokyonight)](https://github.com/niebayes/MIT-6-824-Paxos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=LSM-DB&theme=tokyonight)](https://github.com/niebayes/LSM-DB)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=tinykv-summary&theme=tokyonight)](https://github.com/niebayes/tinykv-summary)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=miniob-summary&theme=tokyonight)](https://github.com/niebayes/miniob-summary)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=MIT-6.S081-summary&theme=tokyonight)](https://github.com/niebayes/MIT-6.S081-summary)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Balancebeam&theme=tokyonight)](https://github.com/niebayes/Balancebeam)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=DEET-Debugger&theme=tokyonight)](https://github.com/niebayes/DEET-Debugger)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Segregated-Explicit-Free-List&theme=tokyonight)](https://github.com/niebayes/Segregated-Explicit-Free-List)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=FAT32-Deleted-File-Recover&theme=tokyonight)](https://github.com/niebayes/FAT32-Deleted-File-Recover)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=niebayes&repo=Graph-Algorithms&theme=tokyonight)](https://github.com/niebayes/Graph-Algorithms) -->
 
 &nbsp;
 
