@@ -31,6 +31,24 @@
 
 &nbsp;
 
+## ✏️ &nbsp; TODO
+- [ ] Advanced Rust
+  - [ ] https://github.com/skyzh/type-exercise-in-rust
+  - [ ] https://rust-lang.github.io/async-book/
+  - [ ] https://www.lurklurk.org/effective-rust/use-types.html
+  - [ ] https://cheats.rs/#idiomatic-rust
+- [ ] Advanced Database
+  - [ ] https://15721.courses.cs.cmu.edu/spring2023/
+  - [ ] https://github.com/influxdata/influxdb
+  - [ ] https://github.com/datafuselabs/databend
+  - [ ] https://github.com/tikv/tikv
+- [ ] Computer Science basics
+  - [ ] https://inst.eecs.berkeley.edu/~cs61c/sp23/
+  - [ ] https://web.stanford.edu/class/cs143/
+
+
+&nbsp;
+
 ## ✏️ &nbsp; Blog posts
 - [# 记一次答复邮件的感悟](https://upbeat-ounce-aa9.notion.site/a0b0a70faf064c058d3f83db6bac53f7?pvs=4)
 - [Percolator 解析](https://upbeat-ounce-aa9.notion.site/Percolator-1315b2b551c8441083db62a860a0ce0e?pvs=4)
