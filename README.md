@@ -33,19 +33,23 @@
 
 ## ✏️ &nbsp; TODO
 - [ ] Database papers
+  - [ ] [Google Monarch](https://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
 - [ ] Advanced Rust
-  - [ ] https://github.com/skyzh/type-exercise-in-rust
-  - [ ] https://rust-lang.github.io/async-book/
-  - [ ] https://www.lurklurk.org/effective-rust/use-types.html
-  - [ ] https://cheats.rs/#idiomatic-rust
+  - [ ] [Type exercise in Rust](https://github.com/skyzh/type-exercise-in-rust)
+  - [ ] [Rust Async book](https://rust-lang.github.io/async-book/)
+  - [ ] [Effective Rust](https://www.lurklurk.org/effective-rust/use-types.html)
+  - [ ] [Rust cheatsheet](https://cheats.rs/#idiomatic-rust)
 - [ ] Advanced Database
-  - [ ] https://15721.courses.cs.cmu.edu/spring2023/
-  - [ ] https://github.com/influxdata/influxdb
-  - [ ] https://github.com/datafuselabs/databend
-  - [ ] https://github.com/tikv/tikv
+  - [ ] [CMU15721](https://15721.courses.cs.cmu.edu/spring2023/)
+  - [ ] [influxdb](https://github.com/influxdata/influxdb)
+  - [ ] [databend](https://github.com/datafuselabs/databend)
+  - [ ] [tikv](https://github.com/tikv/tikv)
 - [ ] Computer Science basics
-  - [ ] https://inst.eecs.berkeley.edu/~cs61c/sp23/
-  - [ ] https://web.stanford.edu/class/cs143/
+  - [ ] [CS61C](https://inst.eecs.berkeley.edu/~cs61c/sp23/)
+  - [ ] [CS143](https://web.stanford.edu/class/cs143/)
+  - [ ] [CS54N](https://web.stanford.edu/class/cs54n/)
+- [ ] Misc
+  - [ ] [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 
 &nbsp;
