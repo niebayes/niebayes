@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(remote_wal): remove topic alias](https://github.com/GreptimeTeam/greptimedb/pull/3120) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: bump version to 0.5.1](https://github.com/GreptimeTeam/greptimedb/pull/3116) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(remote_wal): split an entry if it&#39;s too large](https://github.com/GreptimeTeam/greptimedb/pull/3092) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [test(remote_wal): add kafka image for integration test](https://github.com/GreptimeTeam/greptimedb/pull/3074) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
@@ -29,7 +30,6 @@
 - [feat(remote_wal): implement topic allocation](https://github.com/GreptimeTeam/greptimedb/pull/2970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(remote_wal): add skeleton for remote wal related to datanode](https://github.com/GreptimeTeam/greptimedb/pull/2941) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(remote_wal): add skeleton for remote wal related to meta srv](https://github.com/GreptimeTeam/greptimedb/pull/2933) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat(remote_wal): add wal options to region open/create request](https://github.com/GreptimeTeam/greptime-proto/pull/127) on [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
