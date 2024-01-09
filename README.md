@@ -19,7 +19,7 @@
 
 - [chore: bump version to 0.5.1](https://github.com/GreptimeTeam/greptimedb/pull/3116) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [feat(remote_wal): split an entry if it&#39;s too large](https://github.com/GreptimeTeam/greptimedb/pull/3092) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
-- [test(remote_wal): add kafka image for testing purpose](https://github.com/GreptimeTeam/greptimedb/pull/3074) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
+- [test(remote_wal): add kafka image for integration test](https://github.com/GreptimeTeam/greptimedb/pull/3074) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
 - [fix(remote_wal): some known issues](https://github.com/GreptimeTeam/greptimedb/pull/3052) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [feat(remote_wal): introduce kafka remote wal](https://github.com/GreptimeTeam/greptimedb/pull/3001) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [test(remote_wal): add unit tests for kafka remote wal](https://github.com/GreptimeTeam/greptimedb/pull/2993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
