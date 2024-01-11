@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 day ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (today)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 months ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (4 months ago)
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol (6 months ago)
@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: remove incorrect wal comments in config file](https://github.com/GreptimeTeam/greptimedb/pull/3142) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: stop exposing num_partitions](https://github.com/GreptimeTeam/greptimedb/pull/3132) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore(remote_wal): remove topic alias](https://github.com/GreptimeTeam/greptimedb/pull/3120) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore: bump version to 0.5.1](https://github.com/GreptimeTeam/greptimedb/pull/3116) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -30,7 +31,6 @@
 - [feat(remote_wal): impl kafka log store](https://github.com/GreptimeTeam/greptimedb/pull/2971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(remote_wal): implement topic allocation](https://github.com/GreptimeTeam/greptimedb/pull/2970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(remote_wal): add skeleton for remote wal related to datanode](https://github.com/GreptimeTeam/greptimedb/pull/2941) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat(remote_wal): add skeleton for remote wal related to meta srv](https://github.com/GreptimeTeam/greptimedb/pull/2933) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
