@@ -10,13 +10,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.5.1](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.5.1), 4 days ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.6.0](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.6.0), today) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.4.2](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.4.2), 4 weeks ago) - 
 - [apache/doris](https://github.com/apache/doris) ([2.0.3-rc06](https://github.com/apache/doris/releases/tag/2.0.3-rc06), 4 weeks ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.6.0](https://github.com/hashicorp/raft/releases/tag/v1.6.0), 1 month ago) - Golang implementation of the Raft consensus protocol
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add user guide for kafka remote wal](https://github.com/GreptimeTeam/docs/pull/782) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [fix: remove incorrect wal comments in config file](https://github.com/GreptimeTeam/greptimedb/pull/3142) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: stop exposing num_partitions](https://github.com/GreptimeTeam/greptimedb/pull/3132) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [chore(remote_wal): remove topic alias](https://github.com/GreptimeTeam/greptimedb/pull/3120) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -30,7 +31,6 @@
 - [chore: move some commonly referenced crates to workspace Cargo.toml](https://github.com/GreptimeTeam/greptimedb/pull/2981) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(remote_wal): impl kafka log store](https://github.com/GreptimeTeam/greptimedb/pull/2971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(remote_wal): implement topic allocation](https://github.com/GreptimeTeam/greptimedb/pull/2970) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat(remote_wal): add skeleton for remote wal related to datanode](https://github.com/GreptimeTeam/greptimedb/pull/2941) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
