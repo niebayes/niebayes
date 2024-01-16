@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: introduce common-wal to aggregate wal stuff](https://github.com/GreptimeTeam/greptimedb/pull/3171) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [docs: add user guide for kafka remote wal](https://github.com/GreptimeTeam/docs/pull/782) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
 - [fix: remove incorrect wal comments in config file](https://github.com/GreptimeTeam/greptimedb/pull/3142) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [chore: stop exposing num_partitions](https://github.com/GreptimeTeam/greptimedb/pull/3132) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (6 days ago)
