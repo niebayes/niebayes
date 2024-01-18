@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test: add more integration test for kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3190) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [chore: expose promql test to distributed instance](https://github.com/GreptimeTeam/greptimedb/pull/3176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [refactor: introduce common-wal to aggregate wal stuff](https://github.com/GreptimeTeam/greptimedb/pull/3171) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
 - [docs: add user guide for kafka remote wal](https://github.com/GreptimeTeam/docs/pull/782) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (6 days ago)
@@ -31,7 +32,6 @@
 - [test(remote_wal): add unit tests for kafka remote wal](https://github.com/GreptimeTeam/greptimedb/pull/2993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor(remote_wal): entry id usage](https://github.com/GreptimeTeam/greptimedb/pull/2986) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [chore: move some commonly referenced crates to workspace Cargo.toml](https://github.com/GreptimeTeam/greptimedb/pull/2981) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [feat(remote_wal): impl kafka log store](https://github.com/GreptimeTeam/greptimedb/pull/2971) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
