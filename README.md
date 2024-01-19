@@ -31,7 +31,6 @@
 - [feat(remote_wal): introduce kafka remote wal](https://github.com/GreptimeTeam/greptimedb/pull/3001) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [test(remote_wal): add unit tests for kafka remote wal](https://github.com/GreptimeTeam/greptimedb/pull/2993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [refactor(remote_wal): entry id usage](https://github.com/GreptimeTeam/greptimedb/pull/2986) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [chore: move some commonly referenced crates to workspace Cargo.toml](https://github.com/GreptimeTeam/greptimedb/pull/2981) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
