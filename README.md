@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] refactor: make kvbackend reusable across rebuilds for the RebuildableInstance](https://github.com/GreptimeTeam/greptimedb/pull/3202) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (today)
 - [test: add more integration test for kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3190) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 day ago)
 - [chore: expose promql test to distributed instance](https://github.com/GreptimeTeam/greptimedb/pull/3176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [refactor: introduce common-wal to aggregate wal stuff](https://github.com/GreptimeTeam/greptimedb/pull/3171) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
@@ -30,7 +31,6 @@
 - [fix(remote_wal): some known issues](https://github.com/GreptimeTeam/greptimedb/pull/3052) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(remote_wal): introduce kafka remote wal](https://github.com/GreptimeTeam/greptimedb/pull/3001) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [test(remote_wal): add unit tests for kafka remote wal](https://github.com/GreptimeTeam/greptimedb/pull/2993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [refactor(remote_wal): entry id usage](https://github.com/GreptimeTeam/greptimedb/pull/2986) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
