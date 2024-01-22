@@ -30,7 +30,6 @@
 - [test(remote_wal): add kafka image for integration test](https://github.com/GreptimeTeam/greptimedb/pull/3074) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [fix(remote_wal): some known issues](https://github.com/GreptimeTeam/greptimedb/pull/3052) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 - [feat(remote_wal): introduce kafka remote wal](https://github.com/GreptimeTeam/greptimedb/pull/3001) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [test(remote_wal): add unit tests for kafka remote wal](https://github.com/GreptimeTeam/greptimedb/pull/2993) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
