@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: copy kafka remote wal doc from 0.5 to 0.6](https://github.com/GreptimeTeam/docs/pull/795) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [refactor: make kvbackend reusable across rebuilds](https://github.com/GreptimeTeam/greptimedb/pull/3202) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 days ago)
 - [test: add more integration test for kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3190) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 days ago)
 - [chore: expose promql test to distributed instance](https://github.com/GreptimeTeam/greptimedb/pull/3176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -28,7 +29,6 @@
 - [chore: bump version to 0.5.1](https://github.com/GreptimeTeam/greptimedb/pull/3116) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [feat(remote_wal): split an entry if it&#39;s too large](https://github.com/GreptimeTeam/greptimedb/pull/3092) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [test(remote_wal): add kafka image for integration test](https://github.com/GreptimeTeam/greptimedb/pull/3074) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
-- [fix(remote_wal): some known issues](https://github.com/GreptimeTeam/greptimedb/pull/3052) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
