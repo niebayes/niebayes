@@ -17,6 +17,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: rename files](https://github.com/GreptimeTeam/docs/pull/799) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (today)
 - [chore: copy kafka remote wal doc from 0.5 to 0.6](https://github.com/GreptimeTeam/docs/pull/795) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [refactor: make kvbackend reusable across rebuilds](https://github.com/GreptimeTeam/greptimedb/pull/3202) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [test: add more integration test for kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3190) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
@@ -26,7 +27,6 @@
 - [fix: remove incorrect wal comments in config file](https://github.com/GreptimeTeam/greptimedb/pull/3142) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore: stop exposing num_partitions](https://github.com/GreptimeTeam/greptimedb/pull/3132) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [chore(remote_wal): remove topic alias](https://github.com/GreptimeTeam/greptimedb/pull/3120) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
-- [chore: bump version to 0.5.1](https://github.com/GreptimeTeam/greptimedb/pull/3116) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
