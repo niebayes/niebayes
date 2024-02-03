@@ -2,22 +2,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 days ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (4 days ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (2 weeks ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (4 months ago)
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (5 months ago)
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol (6 months ago)
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.4.3](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.4.3), 2 days ago) - 
+- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.4.3](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.4.3), 3 days ago) - 
 - [apache/doris](https://github.com/apache/doris) ([2.0.4-rc06](https://github.com/apache/doris/releases/tag/2.0.4-rc06), 1 week ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.7.0-nightly-20240115](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.7.0-nightly-20240115), 2 weeks ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
 - [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.6.0](https://github.com/hashicorp/raft/releases/tag/v1.6.0), 2 months ago) - Golang implementation of the Raft consensus protocol
 
 #### 🔨 My recent Pull Requests
 
-- [fix: rename files](https://github.com/GreptimeTeam/docs/pull/799) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 days ago)
+- [fix: rename files](https://github.com/GreptimeTeam/docs/pull/799) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 days ago)
 - [chore: copy kafka remote wal doc from 0.5 to 0.6](https://github.com/GreptimeTeam/docs/pull/795) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 week ago)
 - [refactor: make kvbackend reusable across rebuilds](https://github.com/GreptimeTeam/greptimedb/pull/3202) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
 - [test: add more integration test for kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3190) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 weeks ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (today)
-- [VictoriaMetrics/prometheus-benchmark](https://github.com/VictoriaMetrics/prometheus-benchmark) - Benchmark for Prometheus-compatible systems (2 days ago)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (4 days ago)
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (1 day ago)
+- [VictoriaMetrics/prometheus-benchmark](https://github.com/VictoriaMetrics/prometheus-benchmark) - Benchmark for Prometheus-compatible systems (3 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (5 days ago)
 - [timescale/tsbs](https://github.com/timescale/tsbs) - Time Series Benchmark Suite, a tool for comparing and evaluating databases for time series data (1 week ago)
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps. (2 weeks ago)
