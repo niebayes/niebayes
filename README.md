@@ -12,7 +12,7 @@
 
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.4.3](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.4.3), 1 week ago) - 
 - [apache/doris](https://github.com/apache/doris) ([2.0.4-rc06](https://github.com/apache/doris/releases/tag/2.0.4-rc06), 2 weeks ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.7.0-nightly-20240115](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.7.0-nightly-20240115), 3 weeks ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.7.0-nightly-20240115](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.7.0-nightly-20240115), 4 weeks ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
 - [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.6.0](https://github.com/hashicorp/raft/releases/tag/v1.6.0), 2 months ago) - Golang implementation of the Raft consensus protocol
 
 #### 🔨 My recent Pull Requests
@@ -33,5 +33,5 @@
 - [brendangregg/bpf-perf-tools-book](https://github.com/brendangregg/bpf-perf-tools-book) - Official repository for the BPF Performance Tools book (1 week ago)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (1 week ago)
 - [VictoriaMetrics/prometheus-benchmark](https://github.com/VictoriaMetrics/prometheus-benchmark) - Benchmark for Prometheus-compatible systems (1 week ago)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 week ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 weeks ago)
 - [timescale/tsbs](https://github.com/timescale/tsbs) - Time Series Benchmark Suite, a tool for comparing and evaluating databases for time series data (2 weeks ago)
