@@ -19,7 +19,7 @@
 
 - [fix: rename files](https://github.com/GreptimeTeam/docs/pull/799) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
 - [chore: copy kafka remote wal doc from 0.5 to 0.6](https://github.com/GreptimeTeam/docs/pull/795) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
-- [refactor: make kvbackend reusable across rebuilds](https://github.com/GreptimeTeam/greptimedb/pull/3202) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [refactor: make kvbackend reusable across rebuilds](https://github.com/GreptimeTeam/greptimedb/pull/3202) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [test: add more integration test for kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3190) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: expose promql test to distributed instance](https://github.com/GreptimeTeam/greptimedb/pull/3176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [refactor: introduce common-wal to aggregate wal stuff](https://github.com/GreptimeTeam/greptimedb/pull/3171) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
@@ -30,7 +30,7 @@
 
 #### ⭐ Recent Stars
 
-- [brendangregg/bpf-perf-tools-book](https://github.com/brendangregg/bpf-perf-tools-book) - Official repository for the BPF Performance Tools book (1 week ago)
+- [brendangregg/bpf-perf-tools-book](https://github.com/brendangregg/bpf-perf-tools-book) - Official repository for the BPF Performance Tools book (2 weeks ago)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (2 weeks ago)
 - [VictoriaMetrics/prometheus-benchmark](https://github.com/VictoriaMetrics/prometheus-benchmark) - Benchmark for Prometheus-compatible systems (2 weeks ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 weeks ago)
