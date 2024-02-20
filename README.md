@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (2 weeks ago)
+- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (3 weeks ago)
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. (1 month ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) -  (5 months ago)
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol (7 months ago)
@@ -17,8 +17,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: rename files](https://github.com/GreptimeTeam/docs/pull/799) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 weeks ago)
-- [chore: copy kafka remote wal doc from 0.5 to 0.6](https://github.com/GreptimeTeam/docs/pull/795) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
+- [fix: rename files](https://github.com/GreptimeTeam/docs/pull/799) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 weeks ago)
+- [chore: copy kafka remote wal doc from 0.5 to 0.6](https://github.com/GreptimeTeam/docs/pull/795) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (4 weeks ago)
 - [refactor: make kvbackend reusable across rebuilds](https://github.com/GreptimeTeam/greptimedb/pull/3202) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [test: add more integration test for kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3190) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [chore: expose promql test to distributed instance](https://github.com/GreptimeTeam/greptimedb/pull/3176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
@@ -34,4 +34,4 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (2 weeks ago)
 - [VictoriaMetrics/prometheus-benchmark](https://github.com/VictoriaMetrics/prometheus-benchmark) - Benchmark for Prometheus-compatible systems (2 weeks ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (3 weeks ago)
-- [timescale/tsbs](https://github.com/timescale/tsbs) - Time Series Benchmark Suite, a tool for comparing and evaluating databases for time series data (3 weeks ago)
+- [timescale/tsbs](https://github.com/timescale/tsbs) - Time Series Benchmark Suite, a tool for comparing and evaluating databases for time series data (4 weeks ago)
