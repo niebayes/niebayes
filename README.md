@@ -11,7 +11,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.4.3](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.4.3), 3 weeks ago) - GreptimeDB protobuf files.
-- [apache/doris](https://github.com/apache/doris) ([2.0.4-rc06](https://github.com/apache/doris/releases/tag/2.0.4-rc06), 4 weeks ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+- [apache/doris](https://github.com/apache/doris) ([2.0.4-rc06](https://github.com/apache/doris/releases/tag/2.0.4-rc06), 1 month ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.7.0-nightly-20240115](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.7.0-nightly-20240115), 1 month ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
 - [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.6.0](https://github.com/hashicorp/raft/releases/tag/v1.6.0), 3 months ago) - Golang implementation of the Raft consensus protocol
 
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (2 days ago)
-- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates (2 days ago)
-- [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics (3 days ago)
-- [brendangregg/bpf-perf-tools-book](https://github.com/brendangregg/bpf-perf-tools-book) - Official repository for the BPF Performance Tools book (2 weeks ago)
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (3 days ago)
+- [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates (3 days ago)
+- [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics (4 days ago)
+- [brendangregg/bpf-perf-tools-book](https://github.com/brendangregg/bpf-perf-tools-book) - Official repository for the BPF Performance Tools book (3 weeks ago)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (3 weeks ago)
