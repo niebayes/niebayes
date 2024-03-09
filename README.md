@@ -10,14 +10,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/doris](https://github.com/apache/doris) ([2.1.0-rc11](https://github.com/apache/doris/releases/tag/2.1.0-rc11), today) - Apache Doris is an easy-to-use, high performance and unified analytics database.
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.7.0](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.7.0), 3 days ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
+- [apache/doris](https://github.com/apache/doris) ([2.1.0-rc11](https://github.com/apache/doris/releases/tag/2.1.0-rc11), 1 day ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.7.0](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.7.0), 4 days ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.4.3](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.4.3), 1 month ago) - GreptimeDB protobuf files.
 - [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.6.0](https://github.com/hashicorp/raft/releases/tag/v1.6.0), 3 months ago) - Golang implementation of the Raft consensus protocol
 
 #### 🔨 My recent Pull Requests
 
-- [feat: introduce wal benchmarker](https://github.com/GreptimeTeam/greptimedb/pull/3446) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 days ago)
+- [feat: introduce wal benchmarker](https://github.com/GreptimeTeam/greptimedb/pull/3446) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 days ago)
 - [fix: mitigate memory spike during startup](https://github.com/GreptimeTeam/greptimedb/pull/3418) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 week ago)
 - [fix: rename files](https://github.com/GreptimeTeam/docs/pull/799) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [chore: copy kafka remote wal doc from 0.5 to 0.6](https://github.com/GreptimeTeam/docs/pull/795) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [kaist-cp/cs420](https://github.com/kaist-cp/cs420) - KAIST CS420: Compiler Design (2023 Spring) (5 days ago)
-- [kaist-cp/kecc-public](https://github.com/kaist-cp/kecc-public) - KECC: KAIST Educational C Compiler.  IMPORTANT: DON&#39;T FORK! (5 days ago)
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. (5 days ago)
+- [kaist-cp/cs420](https://github.com/kaist-cp/cs420) - KAIST CS420: Compiler Design (2023 Spring) (6 days ago)
+- [kaist-cp/kecc-public](https://github.com/kaist-cp/kecc-public) - KECC: KAIST Educational C Compiler.  IMPORTANT: DON&#39;T FORK! (6 days ago)
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. (6 days ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 week ago)
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users. (1 week ago)
