@@ -10,10 +10,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/doris](https://github.com/apache/doris) ([2.0.6](https://github.com/apache/doris/releases/tag/2.0.6), 2 days ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+- [apache/doris](https://github.com/apache/doris) ([2.0.6](https://github.com/apache/doris/releases/tag/2.0.6), 3 days ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.7.0](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.7.0), 1 week ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.4.3](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.4.3), 1 month ago) - GreptimeDB protobuf files.
-- [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.6.0](https://github.com/hashicorp/raft/releases/tag/v1.6.0), 3 months ago) - Golang implementation of the Raft consensus protocol
+- [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.6.0](https://github.com/hashicorp/raft/releases/tag/v1.6.0), 4 months ago) - Golang implementation of the Raft consensus protocol
 
 #### 🔨 My recent Pull Requests
 
@@ -32,5 +32,5 @@
 - [kaist-cp/cs420](https://github.com/kaist-cp/cs420) - KAIST CS420: Compiler Design (2023 Spring) (1 week ago)
 - [kaist-cp/kecc-public](https://github.com/kaist-cp/kecc-public) - KECC: KAIST Educational C Compiler.  IMPORTANT: DON&#39;T FORK! (1 week ago)
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. (1 week ago)
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 week ago)
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (2 weeks ago)
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users. (2 weeks ago)
