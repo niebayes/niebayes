@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.7.1](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.7.1), 1 day ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
-- [apache/doris](https://github.com/apache/doris) ([2.0.6](https://github.com/apache/doris/releases/tag/2.0.6), 4 days ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.7.1](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.7.1), 2 days ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
+- [apache/doris](https://github.com/apache/doris) ([2.0.6](https://github.com/apache/doris/releases/tag/2.0.6), 5 days ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.4.3](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.4.3), 1 month ago) - GreptimeDB protobuf files.
 - [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.6.0](https://github.com/hashicorp/raft/releases/tag/v1.6.0), 4 months ago) - Golang implementation of the Raft consensus protocol
 
@@ -23,8 +23,8 @@
 - [chore: copy kafka remote wal doc from 0.5 to 0.6](https://github.com/GreptimeTeam/docs/pull/795) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (1 month ago)
 - [refactor: make kvbackend reusable across rebuilds](https://github.com/GreptimeTeam/greptimedb/pull/3202) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [test: add more integration test for kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3190) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [chore: expose promql test to distributed instance](https://github.com/GreptimeTeam/greptimedb/pull/3176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [refactor: introduce common-wal to aggregate wal stuff](https://github.com/GreptimeTeam/greptimedb/pull/3171) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
+- [chore: expose promql test to distributed instance](https://github.com/GreptimeTeam/greptimedb/pull/3176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
+- [refactor: introduce common-wal to aggregate wal stuff](https://github.com/GreptimeTeam/greptimedb/pull/3171) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
 - [docs: add user guide for kafka remote wal](https://github.com/GreptimeTeam/docs/pull/782) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (2 months ago)
 
 #### ⭐ Recent Stars
