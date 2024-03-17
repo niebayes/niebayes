@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
+- [vickenty/lang-c](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust (today)
 - [kaist-cp/cs420](https://github.com/kaist-cp/cs420) - KAIST CS420: Compiler Design (2023 Spring) (2 weeks ago)
 - [kaist-cp/kecc-public](https://github.com/kaist-cp/kecc-public) - KECC: KAIST Educational C Compiler.  IMPORTANT: DON&#39;T FORK! (2 weeks ago)
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. (2 weeks ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (2 weeks ago)
-- [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users. (2 weeks ago)
