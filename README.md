@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.8.0-nightly-20240401](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.8.0-nightly-20240401), today) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
 - [apache/doris](https://github.com/apache/doris) ([2.0.7](https://github.com/apache/doris/releases/tag/2.0.7), 6 days ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.8.0-nightly-20240325](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.8.0-nightly-20240325), 1 week ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.4.3](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.4.3), 2 months ago) - GreptimeDB protobuf files.
 - [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.6.0](https://github.com/hashicorp/raft/releases/tag/v1.6.0), 4 months ago) - Golang implementation of the Raft consensus protocol
 
