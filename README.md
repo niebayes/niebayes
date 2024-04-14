@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/doris](https://github.com/apache/doris) ([2.1.2-rc04](https://github.com/apache/doris/releases/tag/2.1.2-rc04), today) - Apache Doris is an easy-to-use, high performance and unified analytics database.
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.7.2](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.7.2), 5 days ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
+- [apache/doris](https://github.com/apache/doris) ([2.1.2-rc04](https://github.com/apache/doris/releases/tag/2.1.2-rc04), 1 day ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.7.2](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.7.2), 6 days ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.4.3](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.4.3), 2 months ago) - GreptimeDB protobuf files.
 - [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.6.0](https://github.com/hashicorp/raft/releases/tag/v1.6.0), 5 months ago) - Golang implementation of the Raft consensus protocol
 
@@ -30,6 +30,6 @@
 
 - [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust) - Cap&#39;n Proto for Rust (1 week ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (1 week ago)
-- [vickenty/lang-c](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust (3 weeks ago)
+- [vickenty/lang-c](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust (4 weeks ago)
 - [kaist-cp/cs420](https://github.com/kaist-cp/cs420) - KAIST CS420: Compiler Design (2023 Spring) (1 month ago)
 - [kaist-cp/kecc-public](https://github.com/kaist-cp/kecc-public) - KECC: KAIST Educational C Compiler.  IMPORTANT: DON&#39;T FORK! (1 month ago)
