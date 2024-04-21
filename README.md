@@ -28,7 +28,7 @@
 
 #### ⭐ Recent Stars
 
-- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) -  (3 days ago)
+- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) -  (4 days ago)
 - [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust) - Cap&#39;n Proto for Rust (2 weeks ago)
 - [influxdata/rskafka](https://github.com/influxdata/rskafka) - A minimal Rust client for Apache Kafka (2 weeks ago)
 - [vickenty/lang-c](https://github.com/vickenty/lang-c) - Lightweight C parser for Rust (1 month ago)
