@@ -28,8 +28,8 @@
 
 #### ⭐ Recent Stars
 
-- [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing (today)
-- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library (today)
-- [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry) - The central registry of Bazel modules for the Bzlmod external dependency system. (today)
-- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) -  (5 days ago)
+- [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing (1 day ago)
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library (1 day ago)
+- [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry) - The central registry of Bazel modules for the Bzlmod external dependency system. (1 day ago)
+- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) -  (6 days ago)
 - [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust) - Cap&#39;n Proto for Rust (3 weeks ago)
