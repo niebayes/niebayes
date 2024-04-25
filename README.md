@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/doris](https://github.com/apache/doris) ([2.0.9](https://github.com/apache/doris/releases/tag/2.0.9), 1 day ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+- [apache/doris](https://github.com/apache/doris) ([2.0.9](https://github.com/apache/doris/releases/tag/2.0.9), 2 days ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.7.2](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.7.2), 2 weeks ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.4.3](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.4.3), 2 months ago) - GreptimeDB protobuf files.
 - [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.6.0](https://github.com/hashicorp/raft/releases/tag/v1.6.0), 5 months ago) - Golang implementation of the Raft consensus protocol
@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
-- [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing (2 days ago)
-- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library (2 days ago)
-- [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry) - The central registry of Bazel modules for the Bzlmod external dependency system. (2 days ago)
+- [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing (3 days ago)
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library (3 days ago)
+- [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry) - The central registry of Bazel modules for the Bzlmod external dependency system. (3 days ago)
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) -  (1 week ago)
 - [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust) - Cap&#39;n Proto for Rust (3 weeks ago)
