@@ -35,8 +35,8 @@
 
 #### ⭐ Recent Stars
 
+- [belak/zsh-utils](https://github.com/belak/zsh-utils) - A minimal, opinionated set of ZSH plugins designed to be small, simple, and focused. (today)
 - [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing (6 days ago)
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library (6 days ago)
 - [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry) - The central registry of Bazel modules for the Bzlmod external dependency system. (6 days ago)
 - [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) -  (1 week ago)
-- [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust) - Cap&#39;n Proto for Rust (3 weeks ago)
