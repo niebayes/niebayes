@@ -35,8 +35,8 @@
 
 #### ⭐ Recent Stars
 
+- [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow) - An implementation of differential dataflow using timely dataflow on Rust. (today)
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads. (today)
 - [belak/zsh-utils](https://github.com/belak/zsh-utils) - A minimal, opinionated set of ZSH plugins designed to be small, simple, and focused. (today)
 - [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing (6 days ago)
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library (6 days ago)
-- [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry) - The central registry of Bazel modules for the Bzlmod external dependency system. (6 days ago)
-- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc) -  (1 week ago)
