@@ -29,13 +29,13 @@
 - [refactor: introduce common-wal to aggregate wal stuff](https://github.com/GreptimeTeam/greptimedb/pull/3171) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 months ago)
 - [docs: add user guide for kafka remote wal](https://github.com/GreptimeTeam/docs/pull/782) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 months ago)
 - [fix: remove incorrect wal comments in config file](https://github.com/GreptimeTeam/greptimedb/pull/3142) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 months ago)
-- [chore: stop exposing num_partitions](https://github.com/GreptimeTeam/greptimedb/pull/3132) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 months ago)
+- [chore: stop exposing num_partitions](https://github.com/GreptimeTeam/greptimedb/pull/3132) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 months ago)
 - [chore(remote_wal): remove topic alias](https://github.com/GreptimeTeam/greptimedb/pull/3120) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 months ago)
 - [chore: bump version to 0.5.1](https://github.com/GreptimeTeam/greptimedb/pull/3116) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (today)
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (1 day ago)
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust (1 week ago)
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (1 week ago)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (1 week ago)
