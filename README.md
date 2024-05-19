@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.8.0](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.8.0), 1 day ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.8.0](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.8.0), 2 days ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
 - [apache/doris](https://github.com/apache/doris) ([2.1.3-rc06](https://github.com/apache/doris/releases/tag/2.1.3-rc06), 1 week ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.7.0](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.7.0), 2 weeks ago) - GreptimeDB protobuf files.
 - [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.6.0](https://github.com/hashicorp/raft/releases/tag/v1.6.0), 6 months ago) - Golang implementation of the Raft consensus protocol
@@ -35,8 +35,8 @@
 
 #### ⭐ Recent Stars
 
-- [alibaba/ilogtail](https://github.com/alibaba/ilogtail) - Fast and Lightweight Observability Data Collector (4 days ago)
-- [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (4 days ago)
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (4 days ago)
+- [alibaba/ilogtail](https://github.com/alibaba/ilogtail) - Fast and Lightweight Observability Data Collector (5 days ago)
+- [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (5 days ago)
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (5 days ago)
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (1 week ago)
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux (1 week ago)
