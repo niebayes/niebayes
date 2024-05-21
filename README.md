@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/doris](https://github.com/apache/doris) ([2.1.3-rc09](https://github.com/apache/doris/releases/tag/2.1.3-rc09), 1 day ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.8.0](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.8.0), 3 days ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
+- [apache/doris](https://github.com/apache/doris) ([2.1.3-rc09](https://github.com/apache/doris/releases/tag/2.1.3-rc09), 2 days ago) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.8.0](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.8.0), 4 days ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.7.0](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.7.0), 3 weeks ago) - GreptimeDB protobuf files.
 - [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.6.0](https://github.com/hashicorp/raft/releases/tag/v1.6.0), 6 months ago) - Golang implementation of the Raft consensus protocol
 
@@ -35,8 +35,8 @@
 
 #### ⭐ Recent Stars
 
-- [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (today)
-- [alibaba/ilogtail](https://github.com/alibaba/ilogtail) - Fast and Lightweight Observability Data Collector (6 days ago)
-- [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (6 days ago)
-- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (6 days ago)
+- [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (1 day ago)
+- [alibaba/ilogtail](https://github.com/alibaba/ilogtail) - Fast and Lightweight Observability Data Collector (1 week ago)
+- [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (1 week ago)
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust (1 week ago)
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (1 week ago)
