@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers. (1 day ago)
-- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (1 day ago)
-- [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (4 days ago)
+- [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers. (2 days ago)
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (2 days ago)
+- [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (5 days ago)
 - [alibaba/ilogtail](https://github.com/alibaba/ilogtail) - Fast and Lightweight Observability Data Collector (1 week ago)
 - [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (1 week ago)
