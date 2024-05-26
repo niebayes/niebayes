@@ -16,8 +16,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: refactor read/write of kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3809) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
-- [feat: replay all regions in a batched manner](https://github.com/GreptimeTeam/greptimedb/pull/3808) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 weeks ago)
+- [refactor: refactor read/write of kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3809) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
+- [feat: replay all regions in a batched manner](https://github.com/GreptimeTeam/greptimedb/pull/3808) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: introduce wal benchmarker](https://github.com/GreptimeTeam/greptimedb/pull/3446) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
 - [fix: mitigate memory spike during startup](https://github.com/GreptimeTeam/greptimedb/pull/3418) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (2 months ago)
 - [fix: rename files](https://github.com/GreptimeTeam/docs/pull/799) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (3 months ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers. (2 days ago)
-- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (2 days ago)
-- [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (5 days ago)
+- [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers. (3 days ago)
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (3 days ago)
+- [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (6 days ago)
 - [alibaba/ilogtail](https://github.com/alibaba/ilogtail) - Fast and Lightweight Observability Data Collector (1 week ago)
 - [etcd-io/raft](https://github.com/etcd-io/raft) - Raft library for maintaining a replicated state machine (1 week ago)
