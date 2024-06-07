@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
+- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (today)
 - [datalayers-io/datalayers](https://github.com/datalayers-io/datalayers) -  (1 day ago)
 - [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers. (2 weeks ago)
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (2 weeks ago)
 - [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (2 weeks ago)
-- [alibaba/ilogtail](https://github.com/alibaba/ilogtail) - Fast and Lightweight Observability Data Collector (3 weeks ago)
