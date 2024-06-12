@@ -9,8 +9,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.7.0](https://github.com/hashicorp/raft/releases/tag/v1.7.0), 5 days ago) - Golang implementation of the Raft consensus protocol
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.9.0-b03cb3860-20240606-1717661661](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.9.0-b03cb3860-20240606-1717661661), 5 days ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
+- [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.7.0](https://github.com/hashicorp/raft/releases/tag/v1.7.0), 6 days ago) - Golang implementation of the Raft consensus protocol
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.9.0-b03cb3860-20240606-1717661661](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.9.0-b03cb3860-20240606-1717661661), 6 days ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.7.0](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.7.0), 1 month ago) - GreptimeDB protobuf files.
 
 #### 🔨 My recent Pull Requests
@@ -33,8 +33,8 @@
 
 #### ⭐ Recent Stars
 
-- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (4 days ago)
-- [datalayers-io/datalayers](https://github.com/datalayers-io/datalayers) -  (5 days ago)
+- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (5 days ago)
+- [datalayers-io/datalayers](https://github.com/datalayers-io/datalayers) -  (6 days ago)
 - [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers. (2 weeks ago)
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (2 weeks ago)
 - [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (3 weeks ago)
