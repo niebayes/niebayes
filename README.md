@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
+- [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs (today)
+- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust (today)
+- [risingwavelabs/await-tree](https://github.com/risingwavelabs/await-tree) - Generate accurate and informative tree dumps of asynchronous tasks. (today)
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (6 days ago)
 - [datalayers-io/datalayers](https://github.com/datalayers-io/datalayers) -  (1 week ago)
-- [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers. (3 weeks ago)
-- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (3 weeks ago)
-- [apache/parquet-format](https://github.com/apache/parquet-format) - Apache Parquet (3 weeks ago)
