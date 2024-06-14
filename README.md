@@ -27,8 +27,8 @@
 
 #### ⭐ Recent Stars
 
+- [datalayers-io/datalayers-docs](https://github.com/datalayers-io/datalayers-docs) - DataLayers product documentation (today)
 - [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects  (today)
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs (1 day ago)
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust (1 day ago)
 - [risingwavelabs/await-tree](https://github.com/risingwavelabs/await-tree) - Generate accurate and informative tree dumps of asynchronous tasks. (1 day ago)
-- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store (1 week ago)
