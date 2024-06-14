@@ -25,8 +25,6 @@
 - [test: add more integration test for kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3190) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (4 months ago)
 - [chore: expose promql test to distributed instance](https://github.com/GreptimeTeam/greptimedb/pull/3176) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 months ago)
 - [refactor: introduce common-wal to aggregate wal stuff](https://github.com/GreptimeTeam/greptimedb/pull/3171) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 months ago)
-- [docs: add user guide for kafka remote wal](https://github.com/GreptimeTeam/docs/pull/782) on [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) (5 months ago)
-- [fix: remove incorrect wal comments in config file](https://github.com/GreptimeTeam/greptimedb/pull/3142) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (5 months ago)
 
 #### ⭐ Recent Stars
 
