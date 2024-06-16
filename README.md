@@ -24,8 +24,8 @@
 
 #### ⭐ Recent Stars
 
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (today)
 - [datalayers-io/datalayers-docs](https://github.com/datalayers-io/datalayers-docs) - DataLayers product documentation (2 days ago)
 - [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects  (2 days ago)
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs (3 days ago)
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust (3 days ago)
-- [risingwavelabs/await-tree](https://github.com/risingwavelabs/await-tree) - Generate accurate and informative tree dumps of asynchronous tasks. (3 days ago)
