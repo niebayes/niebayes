@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.8.2](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.8.2), 2 days ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.9.0-nightly-20240617](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.9.0-nightly-20240617), today) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
 - [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.7.0](https://github.com/hashicorp/raft/releases/tag/v1.7.0), 1 week ago) - Golang implementation of the Raft consensus protocol
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.7.0](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.7.0), 1 month ago) - GreptimeDB protobuf files.
 
