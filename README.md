@@ -23,8 +23,8 @@
 
 #### ⭐ Recent Stars
 
+- [tikv/jemallocator](https://github.com/tikv/jemallocator) - Rust allocator using jemalloc as a backend (today)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (2 days ago)
 - [datalayers-io/datalayers-docs](https://github.com/datalayers-io/datalayers-docs) - DataLayers product documentation (4 days ago)
 - [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects  (4 days ago)
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs (5 days ago)
-- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust (5 days ago)
