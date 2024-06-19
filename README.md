@@ -23,8 +23,8 @@
 
 #### ⭐ Recent Stars
 
+- [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (today)
 - [tikv/jemallocator](https://github.com/tikv/jemallocator) - Rust allocator using jemalloc as a backend (1 day ago)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (3 days ago)
 - [datalayers-io/datalayers-docs](https://github.com/datalayers-io/datalayers-docs) - DataLayers product documentation (5 days ago)
 - [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache) - A GitHub Action that implements smart caching for rust/cargo projects  (5 days ago)
-- [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs (6 days ago)
