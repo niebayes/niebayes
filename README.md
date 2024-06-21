@@ -17,7 +17,6 @@
 
 - [refactor: refactor read/write of kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3809) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 - [feat: replay all regions in a batched manner](https://github.com/GreptimeTeam/greptimedb/pull/3808) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
-- [feat: introduce wal benchmarker](https://github.com/GreptimeTeam/greptimedb/pull/3446) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (3 months ago)
 
 #### ⭐ Recent Stars
 
