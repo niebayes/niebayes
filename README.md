@@ -15,7 +15,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: refactor read/write of kafka wal](https://github.com/GreptimeTeam/greptimedb/pull/3809) on [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) (1 month ago)
 
 #### ⭐ Recent Stars
 
