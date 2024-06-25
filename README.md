@@ -18,8 +18,8 @@
 
 #### ⭐ Recent Stars
 
+- [rust-embedded/wg](https://github.com/rust-embedded/wg) - Coordination repository of the embedded devices Working Group (today)
 - [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb) - A cargo subcommand that generates Debian packages from information in Cargo.toml (today)
 - [volks73/cargo-wix](https://github.com/volks73/cargo-wix) - A cargo subcommand to build Windows installers for rust projects using the WiX Toolset (today)
 - [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles (today)
 - [rust-cross/rust-musl-cross](https://github.com/rust-cross/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross (today)
-- [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (6 days ago)
