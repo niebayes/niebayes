@@ -18,8 +18,8 @@
 
 #### ⭐ Recent Stars
 
+- [japaric/rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs! (today)
+- [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) - Simple makefile-based build for musl cross compiler (today)
+- [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries. Supports openssl and diesel crates. (today)
 - [rust-embedded/wg](https://github.com/rust-embedded/wg) - Coordination repository of the embedded devices Working Group (today)
 - [kornelski/cargo-deb](https://github.com/kornelski/cargo-deb) - A cargo subcommand that generates Debian packages from information in Cargo.toml (today)
-- [volks73/cargo-wix](https://github.com/volks73/cargo-wix) - A cargo subcommand to build Windows installers for rust projects using the WiX Toolset (today)
-- [burtonageo/cargo-bundle](https://github.com/burtonageo/cargo-bundle) - Wrap rust executables in OS-specific app bundles (today)
-- [rust-cross/rust-musl-cross](https://github.com/rust-cross/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross (today)
