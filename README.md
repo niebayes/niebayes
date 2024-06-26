@@ -15,11 +15,12 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: doc](https://github.com/cat-in-136/cargo-generate-rpm/pull/112) on [cat-in-136/cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) (today)
 
 #### ⭐ Recent Stars
 
+- [cat-in-136/cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) - Cargo helper command to generate a binary RPM package (today)
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker (today)
 - [japaric/rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs! (1 day ago)
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make) - Simple makefile-based build for musl cross compiler (1 day ago)
 - [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries. Supports openssl and diesel crates. (1 day ago)
-- [rust-embedded/wg](https://github.com/rust-embedded/wg) - Coordination repository of the embedded devices Working Group (1 day ago)
