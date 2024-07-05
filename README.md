@@ -17,7 +17,6 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: doc](https://github.com/cat-in-136/cargo-generate-rpm/pull/112) on [cat-in-136/cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) (1 week ago)
 
 #### ⭐ Recent Stars
 
