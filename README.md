@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.9.0-nightly-20240701](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.9.0-nightly-20240701), 3 days ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.9.0-nightly-20240701](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.9.0-nightly-20240701), 4 days ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
 - [cat-in-136/cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) ([v0.14.1](https://github.com/cat-in-136/cargo-generate-rpm/releases/tag/v0.14.1), 3 weeks ago) - Cargo helper command to generate a binary RPM package
 - [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.7.0](https://github.com/hashicorp/raft/releases/tag/v1.7.0), 4 weeks ago) - Golang implementation of the Raft consensus protocol
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.7.0](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.7.0), 2 months ago) - GreptimeDB protobuf files.
@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (2 days ago)
-- [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions (2 days ago)
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (3 days ago)
+- [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions (3 days ago)
 - [cat-in-136/cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) - Cargo helper command to generate a binary RPM package (1 week ago)
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker (1 week ago)
 - [japaric/rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs! (1 week ago)
