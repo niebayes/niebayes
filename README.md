@@ -21,8 +21,8 @@
 
 #### ⭐ Recent Stars
 
+- [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (today)
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (3 days ago)
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions (3 days ago)
 - [cat-in-136/cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) - Cargo helper command to generate a binary RPM package (1 week ago)
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker (1 week ago)
-- [japaric/rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs! (1 week ago)
