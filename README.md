@@ -12,7 +12,6 @@
 
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.9.0-nightly-20240709](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.9.0-nightly-20240709), 1 day ago) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud.
 - [cat-in-136/cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) ([v0.15.0](https://github.com/cat-in-136/cargo-generate-rpm/releases/tag/v0.15.0), 3 days ago) - Cargo helper command to generate a binary RPM package
-- [hashicorp/raft](https://github.com/hashicorp/raft) ([v1.7.0](https://github.com/hashicorp/raft/releases/tag/v1.7.0), 1 month ago) - Golang implementation of the Raft consensus protocol
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.7.0](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.7.0), 2 months ago) - GreptimeDB protobuf files.
 
 #### 🔨 My recent Pull Requests
