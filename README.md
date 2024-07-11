@@ -16,6 +16,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix comment](https://github.com/timescale/tsbs/pull/257) on [timescale/tsbs](https://github.com/timescale/tsbs) (today)
 - [Format README](https://github.com/timescale/tsbs/pull/256) on [timescale/tsbs](https://github.com/timescale/tsbs) (1 day ago)
 
 #### ⭐ Recent Stars
