@@ -16,6 +16,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support writing to datalayers](https://github.com/datalayers-io/tsbs/pull/1) on [datalayers-io/tsbs](https://github.com/datalayers-io/tsbs) (today)
+- [feat: support writing to datalayers](https://github.com/timescale/tsbs/pull/258) on [timescale/tsbs](https://github.com/timescale/tsbs) (today)
 - [Fix comment](https://github.com/timescale/tsbs/pull/257) on [timescale/tsbs](https://github.com/timescale/tsbs) (1 day ago)
 - [Format README](https://github.com/timescale/tsbs/pull/256) on [timescale/tsbs](https://github.com/timescale/tsbs) (2 days ago)
 
