@@ -9,14 +9,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.9.0](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.9.0), 2 days ago) - An Open-Source, Cloud-Native, Unified Time Series Database for Metrics, Events, and Logs with SQL/PromQL supported. Available on GreptimeCloud.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.9.0](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.9.0), 3 days ago) - An Open-Source, Cloud-Native, Unified Time Series Database for Metrics, Events, and Logs with SQL/PromQL supported. Available on GreptimeCloud.
 - [cat-in-136/cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) ([v0.15.1](https://github.com/cat-in-136/cargo-generate-rpm/releases/tag/v0.15.1), 1 week ago) - Cargo helper command to generate a binary RPM package
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.7.0](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.7.0), 2 months ago) - GreptimeDB protobuf files.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support writing to datalayers](https://github.com/datalayers-io/tsbs/pull/1) on [datalayers-io/tsbs](https://github.com/datalayers-io/tsbs) (6 days ago)
-- [feat: support writing to datalayers](https://github.com/timescale/tsbs/pull/258) on [timescale/tsbs](https://github.com/timescale/tsbs) (6 days ago)
+- [feat: support writing to datalayers](https://github.com/datalayers-io/tsbs/pull/1) on [datalayers-io/tsbs](https://github.com/datalayers-io/tsbs) (1 week ago)
+- [feat: support writing to datalayers](https://github.com/timescale/tsbs/pull/258) on [timescale/tsbs](https://github.com/timescale/tsbs) (1 week ago)
 - [Fix comment](https://github.com/timescale/tsbs/pull/257) on [timescale/tsbs](https://github.com/timescale/tsbs) (1 week ago)
 - [Format README](https://github.com/timescale/tsbs/pull/256) on [timescale/tsbs](https://github.com/timescale/tsbs) (1 week ago)
 
