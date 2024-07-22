@@ -2,14 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [niebayes/MIT-6.5840](https://github.com/niebayes/MIT-6.5840) - My solution for MIT 6.5840 (aka. MIT 6.824). No failure within 30,000 tests. (today)
 - [cat-in-136/cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) - Cargo helper command to generate a binary RPM package (3 weeks ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An Open-Source, Cloud-Native, Unified Time Series Database for Metrics, Events, and Logs with SQL/PromQL supported. Available on GreptimeCloud. (3 months ago)
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An Open-Source, Cloud-Native, Unified Time Series Database for Metrics, Logs and Events with SQL/PromQL supported. Available on GreptimeCloud. (3 months ago)
 - [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (5 months ago)
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.10.0-nightly-20240722](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.10.0-nightly-20240722), today) - An Open-Source, Cloud-Native, Unified Time Series Database for Metrics, Events, and Logs with SQL/PromQL supported. Available on GreptimeCloud.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.10.0-nightly-20240722](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.10.0-nightly-20240722), today) - An Open-Source, Cloud-Native, Unified Time Series Database for Metrics, Logs and Events with SQL/PromQL supported. Available on GreptimeCloud.
 - [cat-in-136/cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) ([v0.15.2](https://github.com/cat-in-136/cargo-generate-rpm/releases/tag/v0.15.2), 3 days ago) - Cargo helper command to generate a binary RPM package
 - [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.7.0](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.7.0), 2 months ago) - GreptimeDB protobuf files.
 
