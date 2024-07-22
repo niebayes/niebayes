@@ -1,30 +1,32 @@
-### Hi there 👋
+# We're Hiring!
 
-#### 👷 Check out what I'm currently working on
+### 关于公司
+澜图未来（成都）数据科技有限公司成立于 2023 年，总部坐落在成都，是一家面向物联网和人工智能领域的企业级数据库厂商，为用户提供新一代多模态、超融合数据库产品及解决方案。致力于为物联网和人工智能用户提供稳定高效、开放兼容的数据服务平台，帮助企业不断满足日益复杂的应用场景需求的同时，助力企业不断实现更大的数据价值和生产效能。
 
-- [niebayes/MIT-6.5840](https://github.com/niebayes/MIT-6.5840) - My solution for MIT 6.5840 (aka. MIT 6.824). No failure within 30,000 tests. (today)
-- [cat-in-136/cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) - Cargo helper command to generate a binary RPM package (3 weeks ago)
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An Open-Source, Cloud-Native, Unified Time Series Database for Metrics, Logs and Events with SQL/PromQL supported. Available on GreptimeCloud. (3 months ago)
-- [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs) - Document for GreptimeDB (5 months ago)
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) - GreptimeDB protobuf files. (10 months ago)
+### 岗位职责：
+- 作为实习生，你将直接参与公司核心项目，作为核心人员助力项目落地；
+- 你将有机会从零开始为自研数据库做架构设计，针对业务场景设计并实现最新型、最高效的数据库核心模块；
+- 你将有机会输出自己在校习得的数据库前沿理论，将创新的论文 Idea 应用到自研数据库，对数据库核心模块进行优化；
 
-#### 🔭 Latest releases I've contributed to
+### 岗位要求：
+- 至少熟悉 C/C++、Go、Java、Rust 中的一门编程语言，并且有意愿将 Rust 作为主力语言；
+- 扎实的计算机理论基础，熟悉数据结构与算法、操作系统，至少较为深入地学习过分布式系统、数据库系统、编译原理中的一门课；
+- 了解并学习过某个数据库的源代码，掌握该数据库至少一个模块的架构设计、实现细节；
+- 学习能力强，自驱力强，愿意学习新知识；
+- 较强的沟通能力，有责任心；
 
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ([v0.10.0-nightly-20240722](https://github.com/GreptimeTeam/greptimedb/releases/tag/v0.10.0-nightly-20240722), today) - An Open-Source, Cloud-Native, Unified Time Series Database for Metrics, Logs and Events with SQL/PromQL supported. Available on GreptimeCloud.
-- [cat-in-136/cargo-generate-rpm](https://github.com/cat-in-136/cargo-generate-rpm) ([v0.15.2](https://github.com/cat-in-136/cargo-generate-rpm/releases/tag/v0.15.2), 3 days ago) - Cargo helper command to generate a binary RPM package
-- [GreptimeTeam/greptime-proto](https://github.com/GreptimeTeam/greptime-proto) ([v0.7.0](https://github.com/GreptimeTeam/greptime-proto/releases/tag/v0.7.0), 2 months ago) - GreptimeDB protobuf files.
+### 加分项：
+- 学习过知名计算机公开课，包括但不限于 MIT 6.S081（MIT 6.828）、MIT 6.824（MIT 6.5840）、CMU 15-445/15721、UCB CS186 等课程，或其他国内外知名课程。 自主完成课程的编程作业，阅读并研究过课程配套的论文或资料；
+- 参与过数据库开源项目，如 TiDB、Apache Doris、ClickHouse、GreptimeDB、RisingWave、Databend、Neon、VictoriaMetrics、TimescaleDB、InfluxDB 等。提交过有一定影响力的 PR，或较深度地参与过开源社区建设；
+- 深入学习过数据库理论知识，有论文产出最佳；
 
-#### 🔨 My recent Pull Requests
+### 薪资福利：
+- Base 成都，双休，不加班；
+- 供应水果、小零食，不定期团建；
+- 基本薪资 250-400 元/天，公司提供住房补贴。每周至少到岗 3 天，优秀者可谈薪；
+- 技术氛围浓厚，成长空间大，优秀者可转正；
+- 优秀者，可提供业界大厂内推；
 
-- [feat: support writing to datalayers](https://github.com/datalayers-io/tsbs/pull/1) on [datalayers-io/tsbs](https://github.com/datalayers-io/tsbs) (1 week ago)
-- [feat: support writing to datalayers](https://github.com/timescale/tsbs/pull/258) on [timescale/tsbs](https://github.com/timescale/tsbs) (1 week ago)
-- [Fix comment](https://github.com/timescale/tsbs/pull/257) on [timescale/tsbs](https://github.com/timescale/tsbs) (1 week ago)
-- [Format README](https://github.com/timescale/tsbs/pull/256) on [timescale/tsbs](https://github.com/timescale/tsbs) (1 week ago)
-
-#### ⭐ Recent Stars
-
-- [datalayers-io/tsbs](https://github.com/datalayers-io/tsbs) - Time Series Benchmark Suite, a tool for comparing and evaluating databases for time series data (3 days ago)
-- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (1 week ago)
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 week ago)
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension. (1 week ago)
-- [MasterworksIO/action-local-cache](https://github.com/MasterworksIO/action-local-cache) - A Github Action to save and restore files across job runs directly in the runner&#39;s file system (2 weeks ago)
+### 联系方式：
+- 电话、微信：13026339196
+- 邮箱：niebayes@gmail.com
